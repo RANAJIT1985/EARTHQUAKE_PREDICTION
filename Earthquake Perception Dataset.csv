@@ -1,0 +1,473 @@
+﻿age,sex,marital_status,residence,education,occupation,out_of_region_employment,family_members,family_disabilities,house_floor,earthquake80,political_orientation,shocks,fear,anxiety,physiological_symptoms,decision_timeliness,insomnia,seismic_concern,abroad,out_of_region,out_of_region_earthquake,change_of_residence,change_of_residence_earthquake,red_zone_frequency,radio_info,TV_info,social_media_info,newspaper_info,app_info,municipal_institutions_trust,regional_institutions_trust,national_institutions_trust,INGV_trust,security,reception_centers,property_house,housing_type,elevator,n_vehicles,vehicle_type,end_of_month,salary
+21,Male,Unmarried,Napoli,Upper Secondary School,Student,No,4,No,1,No,Left,3,2,2,2,3,1,2,Yes,Yes,No,No,No,No,3,4,2,4,4,3,3,3,4,2,No,Yes,Apartment,Yes,0,None,1,Up to €15000
+21,Female,Unmarried,Napoli,Upper Secondary School,Student,No,5,No,4,No,Center,1,2,2,1,3,2,4,Yes,Yes,No,Yes,No,Yes,3,2,2,2,2,2,2,2,3,1,No,Yes,Other,Yes,5,Car and Motorcycle,1,Between €28000 and €50000
+21,Female,Unmarried,Napoli,Upper Secondary School,Student Worker,No,5,No,4,No,Left,3,2,2,1,4,2,3,Yes,Yes,Yes,Yes,Yes,Yes,2,2,2,2,2,2,2,2,5,3,Yes,Yes,Apartment,Yes,0,None,1,Between €15000 and €28000
+23,Male,Unmarried,Quarto,Upper Secondary School,Student,No,5,No,2,No,None,3,3,3,3,1,3,4,Yes,Yes,Yes,Yes,Yes,Yes,1,1,1,1,1,1,1,1,1,1,No,No,Apartment,No,2,Car,5,Up to €15000
+64,Female,Unmarried,Somma Vesuviana,Degree,Retired,No,1,No,2,Yes,Left,4,4,4,3,2,3,4,Yes,No,No,Yes,Yes,Yes,3,3,3,3,3,2,3,2,4,2,No,No,Apartment,Yes,0,None,3,Between €15000 and €28000
+22,Female,Unmarried,Pollena Trocchia,Upper Secondary School,Student,No,4,No,1,No,None,2,3,4,1,3,3,4,Yes,Yes,Yes,Yes,Yes,Yes,3,3,3,3,3,3,3,3,3,3,No,Yes,Apartment,No,2,Car,2,Between €15000 and €28000
+26,Female,Unmarried,Cancello Ed Arnone,Upper Secondary School,Student Worker,No,4,No,0 (Ground Floor),No,,2,3,3,1,2,3,3,Yes,Yes,No,Yes,No,No,3,3,3,3,3,1,1,3,3,1,No,Yes,Villa/Small Villa,No,3,Car,1,Between €28000 and €50000
+22,Male,Unmarried,Pollena Trocchia,Degree,Student,No,4,No,1,No,Right,1,3,3,1,4,1,3,Yes,Yes,No,Yes,No,Yes,2,2,3,2,4,1,1,3,4,2,No,No,Apartment,No,2,Car,1,
+40,Female,Cohabiting,Napoli,Degree,Employee,No,3,No,2,No,Left,2,4,5,5,2,3,5,Yes,Yes,No,Yes,No,No,4,4,4,3,4,2,2,3,5,1,No,Yes,Apartment,Yes,2,Car and Motorcycle,1,Between €28000 and €50000
+42,Female,Married,Napoli,Postgraduate Degree,Employee,No,4,No,0 (Ground Floor),No,Right,1,1,2,1,2,1,4,Yes,Yes,No,Yes,No,Yes,4,4,3,3,3,2,1,3,4,1,Yes,Yes,Villa/Small Villa,No,2,Car and Motorcycle,2,
+36,Male,Unmarried,Villaricca,Postgraduate Degree,Employee,No,2,No,1,No,Left,2,2,1,1,3,1,4,Yes,Yes,No,Yes,No,Yes,1,1,1,1,1,1,2,1,4,3,No,Yes,Villa/Small Villa,No,1,Car,2,Up to €15000
+30,Female,Unmarried,San Giuseppe Vesuviano,Degree,Student,No,5,Yes,1,No,,1,2,2,1,1,1,1,Yes,No,No,No,No,Yes,2,2,3,2,3,2,1,1,5,1,No,Yes,Apartment,No,3,Car and Motorcycle,1,
+22,Female,Unmarried,Quarto,Upper Secondary School,Student,No,5,,0 (Ground Floor),No,,2,1,2,2,1,1,2,Yes,Yes,No,Yes,No,Yes,3,3,3,3,3,1,1,1,4,3,No,No,Villa/Small Villa,No,1,Car,3,
+42,Female,Unmarried,Pozzuoli,Postgraduate Degree,Self-Employed,No,2,No,1,No,Left,4,3,3,2,1,2,2,Yes,Yes,Yes,Yes,Yes,Yes,1,1,2,1,2,1,1,1,3,1,No,No,Apartment,No,1,Car,4,Up to €15000
+20,Female,Unmarried,Napoli,Upper Secondary School,Student,No,3,No,0 (Ground Floor),No,Left,4,3,4,1,2,1,3,Yes,Yes,No,Yes,No,Yes,1,1,2,2,3,3,2,1,4,3,Yes,No,Apartment,No,0,None,1,Up to €15000
+36,Female,Married,Lusciano,Degree,Employee,No,4,No,2,No,None,1,2,2,3,2,2,2,Yes,Yes,No,Yes,No,No,2,2,3,2,3,1,1,1,3,1,No,Yes,Apartment,No,1,Car,1,Between €15000 and €28000
+22,Female,Unmarried,Pozzuoli,Degree,Student,No,3,No,3,No,Center,4,4,4,2,2,5,4,Yes,Yes,Yes,Yes,Yes,Yes,2,3,2,3,4,3,3,2,4,3,Yes,No,Apartment,No,1,Car,2,Up to €15000
+20,Female,Unmarried,Napoli,Upper Secondary School,Student,No,4,No,1,No,Left,3,3,4,3,4,4,4,Yes,Yes,No,Yes,No,Yes,4,4,3,4,3,3,3,3,4,2,No,Yes,Apartment,No,1,Car,3,Up to €15000
+22,Male,Unmarried,Napoli,Degree,Student,No,5,No,0 (Ground Floor),No,Left,3,4,4,4,3,3,5,No,Yes,No,Yes,No,Yes,3,2,4,2,4,2,3,2,4,3,Yes,No,Apartment,No,1,Car,4,Between €15000 and €28000
+22,Female,Unmarried,Napoli,Degree,Student,No,3,No,1,No,,1,3,4,3,3,2,4,Yes,Yes,Yes,Yes,Yes,Yes,2,2,2,2,2,3,3,3,3,2,No,Yes,Villa/Small Villa,No,2,Car,2,Between €15000 and €28000
+23,Female,Unmarried,Pozzuoli,Upper Secondary School,Student,No,5,No,0 (Ground Floor),No,,5,3,3,2,3,3,3,Yes,Yes,No,Yes,No,Yes,3,3,3,3,3,2,2,2,3,2,No,Yes,Villa/Small Villa,No,2,Car and Motorcycle,4,Up to €15000
+55,Female,Unmarried,Potenza,Degree,Employee,No,2,No,3,Yes,Center,3,4,3,3,3,3,4,Yes,Yes,Yes,Yes,Yes,Yes,3,3,3,3,3,3,3,3,3,3,Yes,Yes,Apartment,No,1,Car,3,Up to €15000
+22,Male,Unmarried,Pompei,Degree,Student,Yes,2,No,0 (Ground Floor),No,None,2,2,2,1,2,2,3,Yes,Yes,No,Yes,No,Yes,3,2,4,4,4,3,2,1,4,3,Yes,Yes,Apartment,No,1,Car,2,
+25,Female,Unmarried,Acerra,Degree,Student,No,4,No,2,No,Left,1,1,1,1,1,1,3,Yes,Yes,No,Yes,Yes,No,1,3,1,1,4,1,1,3,5,1,No,Yes,Apartment,Yes,0,None,2,Between €28000 and €50000
+23,Male,Unmarried,Pozzuoli,Degree,Student,No,5,No,0 (Ground Floor),No,,3,2,1,1,3,1,1,Yes,Yes,No,Yes,No,Yes,1,1,5,3,4,3,3,3,5,3,Yes,Yes,Villa/Small Villa,No,3,Car,2,Between €15000 and €28000
+30,Female,Unmarried,Frattaminore,Degree,Employee,No,4,No,1,No,None,1,4,4,4,2,4,5,Yes,Yes,No,Yes,No,No,3,3,3,3,3,2,2,2,3,2,No,Yes,Apartment,No,1,Car,2,
+34,Male,Unmarried,Acerra,Postgraduate Degree,Employee,No,4,No,0 (Ground Floor),No,Right,1,5,3,1,3,1,2,No,Yes,No,Yes,No,No,3,3,3,3,3,2,2,3,4,2,No,Yes,Apartment,No,2,Car,1,Between €15000 and €28000
+27,Female,Unmarried,Cirò Marina,Degree,Student Worker,Yes,5,No,2,No,None,2,4,5,3,4,4,5,Yes,Yes,Yes,Yes,No,No,4,5,5,3,4,3,3,4,4,3,No,Yes,Other,No,1,Car,3,Up to €15000
+67,Female,Married,Pozzuoli,Elementary School,Retired,No,4,No,3,Yes,None,3,3,2,1,5,1,5,Yes,Yes,Yes,No,No,Yes,1,1,2,1,1,1,1,1,2,3,No,No,Apartment,Yes,1,Car,5,Up to €15000
+35,Female,Unmarried,Napoli,Postgraduate Degree,Employee,No,3,No,5,No,,3,4,4,3,3,4,5,Yes,Yes,Yes,Yes,Yes,Yes,2,2,3,3,4,2,2,2,4,2,Yes,Yes,Apartment,Yes,1,Car,2,
+29,Female,Unmarried,Qualiano,Postgraduate Degree,Employee,No,4,No,2,No,None,1,3,4,1,1,1,4,Yes,Yes,No,Yes,No,Yes,2,2,2,2,3,1,1,1,2,1,No,Yes,Apartment,No,1,Car,3,Between €15000 and €28000
+21,Female,Unmarried,Somma Vesuviana,Upper Secondary School,Student,No,Over 5,No,3,No,,1,1,1,1,3,1,1,Yes,Yes,Yes,Yes,Yes,Yes,3,3,2,3,1,3,3,3,4,3,No,Yes,Apartment,Yes,0,None,1,Up to €15000
+23,Female,Unmarried,Napoli,Upper Secondary School,Student,No,1,No,3,No,,3,4,4,3,1,5,5,Yes,Yes,Yes,Yes,Yes,Yes,1,1,2,1,1,2,2,3,3,1,No,No,Apartment,Yes,1,Car,3,
+25,Female,Unmarried,Napoli,Postgraduate Degree,Employee,No,4,No,4,No,,4,4,3,5,2,5,4,Yes,Yes,No,Yes,Yes,Yes,1,1,3,4,3,2,2,2,5,2,No,No,Apartment,Yes,2,Car and Motorcycle,4,Up to €15000
+28,Female,Unmarried,Somma Vesuviana,Postgraduate Degree,Student,No,Over 5,No,3,No,None,1,1,1,1,1,1,3,Yes,Yes,No,No,Yes,Yes,2,2,4,2,3,1,1,1,2,1,No,Yes,Apartment,Yes,2,Car,1,Over €50000
+21,Male,Unmarried,Napoli,Upper Secondary School,Student,No,4,No,2,No,Left,2,1,2,1,2,1,2,Yes,Yes,No,Yes,No,No,1,1,2,1,3,3,3,3,4,2,No,Yes,Apartment,Yes,0,None,1,Up to €15000
+22,Female,Unmarried,Qualiano,Degree,Student,No,4,No,2,No,Left,3,3,3,1,2,3,3,Yes,Yes,No,Yes,Yes,Yes,3,4,5,3,5,2,3,3,3,2,No,Yes,Apartment,No,2,Car,3,Up to €15000
+25,Female,Unmarried,Napoli,Degree,Student,No,4,No,2,No,,3,3,3,2,4,2,4,No,Yes,No,Yes,No,Yes,3,4,4,4,5,3,3,3,4,3,Yes,No,Apartment,No,0,None,2,Up to €15000
+22,Female,Unmarried,Terzigno,Degree,Student,No,4,No,1,No,Left,1,3,3,1,1,1,3,Yes,Yes,No,No,No,Yes,3,3,3,3,3,4,3,1,3,1,No,Yes,Apartment,No,3,Car,2,Between €15000 and €28000
+23,Female,Unmarried,Torre Del Greco,Degree,Student,No,4,No,1,No,Left,1,1,1,1,1,1,1,Yes,Yes,No,Yes,No,No,3,3,4,3,4,1,1,1,4,1,No,No,Apartment,No,0,None,3,
+58,Male,Married,Somma Vesuviana,Degree,Employee,No,3,No,2,Yes,,3,3,3,3,4,3,3,Yes,Yes,No,No,No,No,4,4,3,3,5,3,3,4,4,3,No,Yes,Apartment,No,2,Car and Motorcycle,2,
+26,Male,Cohabiting,Sant'Anastasia,Degree,Self-Employed,No,3,No,1,No,,1,1,1,1,1,1,3,Yes,Yes,No,Yes,No,Yes,2,2,3,1,2,2,2,2,3,1,No,Yes,Apartment,No,2,Car and Motorcycle,3,Between €15000 and €28000
+21,Male,Unmarried,Volla,Upper Secondary School,Student,No,4,No,2,No,,1,1,1,1,1,1,2,Yes,Yes,No,No,No,No,3,3,2,2,2,2,2,2,2,1,No,Yes,Apartment,Yes,2,Car,3,
+25,Female,Unmarried,Frattaminore,Degree,Unemployed,No,3,No,0 (Ground Floor),No,,1,1,1,1,1,1,2,No,Yes,No,No,No,No,3,3,3,3,3,3,3,3,4,2,No,Yes,Other,No,1,Car,3,
+28,Male,Unmarried,Somma Vesuviana,Upper Secondary School,Self-Employed,No,2,No,4,No,None,1,1,3,1,5,1,1,Yes,Yes,No,No,No,Yes,2,1,1,2,3,1,1,1,3,1,No,Yes,Apartment,Yes,1,Car,3,Between €15000 and €28000
+25,Female,Unmarried,Terni,Degree,Student,Yes,3,No,Over 5,No,None,3,4,3,1,3,4,4,Yes,Yes,No,No,No,No,4,4,4,4,3,3,3,4,5,2,No,Yes,Apartment,Yes,1,Car,3,Between €28000 and €50000
+56,Female,Married,Somma Vesuviana,Degree,Unemployed,No,3,No,2,Yes,None,4,5,3,3,3,4,4,Yes,Yes,No,Yes,No,Yes,4,5,4,4,4,3,3,3,4,2,No,Yes,Apartment,No,3,Car and Motorcycle,1,Between €28000 and €50000
+22,Female,Unmarried,Napoli,Upper Secondary School,Student,No,Over 5,No,4,No,None,4,4,4,1,4,3,3,Yes,Yes,No,Yes,No,Yes,2,2,4,3,3,1,1,2,3,2,No,Yes,Apartment,No,0,None,3,Between €15000 and €28000
+27,Female,Cohabiting,Napoli,Degree,Employee,No,2,No,3,No,Left,1,2,4,1,5,1,4,Yes,Yes,Yes,Yes,Yes,Yes,1,1,1,1,3,1,1,1,4,2,No,Yes,Apartment,No,0,None,5,Up to €15000
+22,Female,Unmarried,Napoli,Upper Secondary School,Student,No,4,,0 (Ground Floor),No,Left,1,3,3,1,2,3,5,Yes,Yes,Yes,Yes,Yes,No,3,3,3,3,3,2,2,1,4,2,Yes,Yes,Apartment,Yes,2,Car,2,Between €15000 and €28000
+43,Female,Unmarried,Napoli,Upper Secondary School,Employee,No,3,,0 (Ground Floor),No,,2,3,4,3,4,4,4,Yes,No,No,No,No,No,2,2,2,2,2,3,3,3,4,4,No,No,Villa/Small Villa,No,3,Car,3,Up to €15000
+32,Female,Cohabiting,Battipaglia,Postgraduate Degree,Employee,No,2,No,5,No,None,1,1,3,1,2,3,4,Yes,Yes,No,Yes,No,No,4,4,3,4,4,3,3,3,4,2,No,No,Apartment,Yes,2,Car,2,Between €15000 and €28000
+33,Female,Unmarried,Somma Vesuviana,Degree,Student Worker,No,3,No,0 (Ground Floor),No,Center,2,3,5,2,3,1,4,Yes,Yes,Yes,Yes,Yes,Yes,2,1,3,1,1,1,1,1,2,1,No,Yes,Apartment,Yes,2,Car,2,
+70,Female,Married,Vicenza,Lower Secondary School,Retired,No,2,No,2,Yes,Right,1,1,1,1,4,1,1,No,No,No,Yes,No,No,1,1,2,2,2,3,3,2,3,3,No,Yes,Apartment,No,1,Car,2,Up to €15000
+25,Female,Unmarried,Napoli,Postgraduate Degree,Unemployed,No,Over 5,No,1,No,None,1,3,2,2,3,3,3,Yes,Yes,No,Yes,No,Yes,2,3,3,1,3,1,2,2,3,2,Yes,Yes,Villa/Small Villa,No,2,Car,3,Between €15000 and €28000
+36,Female,Cohabiting,Potenza,Postgraduate Degree,Employee,No,1,No,2,No,,4,5,5,4,4,4,4,Yes,Yes,Yes,Yes,No,Yes,4,3,1,3,3,2,2,2,3,1,No,No,Apartment,Yes,0,None,2,Between €15000 and €28000
+29,Male,Unmarried,Pozzuoli,Degree,Student,No,4,No,3,No,Left,3,4,5,1,4,5,4,Yes,Yes,Yes,No,Yes,Yes,1,2,4,3,1,4,3,2,4,4,No,No,Apartment,Yes,1,Car,3,Up to €15000
+30,Female,Unmarried,Cancello Ed Arnone,Degree,Student,No,3,No,1,No,,1,3,4,3,4,4,4,Yes,No,No,No,No,Yes,3,2,2,2,3,2,1,2,3,1,Yes,Yes,Villa/Small Villa,No,2,Car,2,Between €28000 and €50000
+23,Female,Unmarried,Roma,Degree,Student Worker,Yes,4,No,3,No,,2,4,4,2,3,4,4,Yes,Yes,No,Yes,No,No,4,4,3,4,4,3,3,3,4,3,Yes,Yes,Apartment,No,2,Car,2,
+30,Male,Unmarried,Roma,Degree,Student,Yes,1,No,1,No,Center,3,3,3,3,3,3,3,Yes,Yes,Yes,Yes,No,No,4,4,5,5,4,3,2,4,4,2,No,No,Apartment,Yes,0,None,2,Up to €15000
+28,Female,Unmarried,Napoli,Degree,Student,No,3,No,3,No,Left,2,3,3,1,1,2,3,Yes,Yes,No,Yes,No,Yes,3,3,4,4,2,1,1,1,3,1,No,No,Apartment,Yes,1,Car,2,
+24,Female,Unmarried,Pomigliano D’Arco,Degree,Student,No,4,No,4,No,,2,3,5,1,2,3,3,Yes,Yes,No,Yes,No,Yes,2,3,5,3,2,1,2,2,4,1,Yes,Yes,Apartment,Yes,2,Car,3,
+29,Male,Unmarried,Napoli,Degree,Student,No,4,No,0 (Ground Floor),No,Left,1,1,1,1,1,1,1,Yes,Yes,No,Yes,No,Yes,1,1,3,2,1,1,1,1,1,1,No,Yes,Villa/Small Villa,No,2,Car,3,
+37,Female,Married,Bacoli,Degree,Employee,No,2,No,4,No,None,3,4,5,4,2,4,4,Yes,No,No,No,No,Yes,3,3,3,3,3,1,1,1,1,1,No,Yes,Apartment,Yes,1,Car,3,
+28,Male,Unmarried,Capo D'orlando,Degree,Unemployed,Yes,4,No,2,No,None,1,1,1,1,1,1,1,Yes,Yes,No,Yes,No,No,3,4,5,1,3,3,3,3,2,3,No,Yes,Other,No,2,Car,1,Between €28000 and €50000
+25,Female,Unmarried,Salerno,Degree,Student,No,4,No,2,No,Center,2,2,2,2,2,1,3,Yes,No,No,Yes,No,No,3,3,2,3,4,3,3,3,4,2,No,Yes,Villa/Small Villa,No,2,Car,4,Up to €15000
+25,Female,Unmarried,Pozzuoli,Degree,Student,No,3,No,1,No,,4,3,3,2,4,3,3,Yes,Yes,No,Yes,No,Yes,3,3,4,3,4,2,2,3,5,2,Yes,Yes,Villa/Small Villa,No,2,Car,2,Over €50000
+38,Female,Married,Pozzuoli,Degree,Employee,No,5,No,1,No,,3,3,4,2,3,3,4,Yes,Yes,No,Yes,Yes,Yes,2,3,3,3,4,3,2,2,3,3,No,Yes,Villa/Small Villa,No,3,Car and Motorcycle,2,
+23,Female,Unmarried,Giugliano,Degree,Student Worker,No,4,No,1,No,Center,2,3,4,2,2,2,4,Yes,Yes,No,No,No,Yes,4,3,4,3,5,2,2,2,4,1,No,Yes,Apartment,Yes,2,Car,5,Between €15000 and €28000
+24,Female,Unmarried,Giugliano,Degree,Student,No,4,No,3,No,Left,4,3,3,1,2,3,3,Yes,Yes,No,No,No,Yes,2,2,1,2,4,2,2,1,5,3,Yes,Yes,Villa/Small Villa,No,2,Car,2,Between €28000 and €50000
+25,Female,Unmarried,Napoli,Degree,Student,No,Over 5,No,0 (Ground Floor),No,Left,1,4,4,1,1,1,5,Yes,Yes,No,No,No,Yes,2,2,4,3,3,4,4,4,5,1,No,Yes,Villa/Small Villa,No,3,Car and Motorcycle,1,
+29,Male,Unmarried,Pozzuoli,Postgraduate Degree,Employee,No,4,No,1,No,Center,3,2,3,1,2,1,1,Yes,Yes,No,No,No,Yes,1,1,3,2,3,1,1,1,2,1,No,Yes,Apartment,No,2,Car,2,Up to €15000
+25,Female,Unmarried,Milano,Degree,Employee,Yes,3,No,0 (Ground Floor),No,,1,2,4,1,4,1,3,Yes,Yes,No,No,No,No,3,4,3,2,3,3,3,3,4,2,No,Yes,Apartment,Yes,0,None,3,
+27,Male,Cohabiting,Pozzuoli,Postgraduate Degree,Employee,No,2,No,1,No,,3,2,4,2,2,1,3,Yes,Yes,No,No,No,Yes,1,1,2,1,1,2,2,2,4,4,No,No,Apartment,No,1,Car,2,
+45,Male,Married,Qualiano,Postgraduate Degree,Self-Employed,No,5,No,1,No,Left,2,2,2,1,1,1,1,Yes,Yes,No,Yes,No,Yes,1,1,1,1,1,1,1,1,3,1,No,Yes,Apartment,No,2,Car,1,Between €28000 and €50000
+59,Female,Separated,Cercola,Degree,Employee,No,2,No,3,Yes,Left,3,2,2,2,3,2,3,Yes,Yes,Yes,Yes,Yes,Yes,4,4,2,4,2,3,3,3,4,3,Yes,No,Apartment,No,1,Car,3,Between €28000 and €50000
+55,Male,Unmarried,Casoria,Upper Secondary School,Self-Employed,No,2,No,Over 5,Yes,,2,1,1,1,3,3,3,Yes,No,No,No,No,No,3,2,4,3,4,1,3,3,3,2,No,Yes,Apartment,Yes,1,Car,3,Between €15000 and €28000
+48,Female,Married,Napoli,Degree,Employee,No,4,No,5,Yes,Left,3,3,3,2,3,1,4,Yes,No,No,No,No,Yes,4,4,3,4,5,1,1,1,3,2,No,Yes,Apartment,Yes,1,Car,3,Between €15000 and €28000
+52,Female,Married,Napoli,Degree,Employee,No,4,No,Over 5,Yes,,4,3,3,2,2,3,4,Yes,Yes,No,Yes,No,Yes,3,3,3,3,3,1,1,2,3,1,No,Yes,Apartment,Yes,1,Car,2,
+28,Female,Unmarried,Messina,Postgraduate Degree,Student,Yes,3,No,2,No,Right,3,3,3,2,3,2,5,Yes,No,No,No,No,Yes,1,3,1,2,3,3,3,2,4,3,No,Yes,Villa/Small Villa,No,0,None,4,Up to €15000
+55,Female,Married,Boscoreale,Degree,Employee,No,5,No,2,No,Left,3,3,3,2,2,2,3,Yes,No,No,No,No,Yes,3,3,3,3,3,2,2,2,4,2,No,No,Villa/Small Villa,No,2,Car,3,Between €28000 and €50000
+23,Female,Unmarried,Villa Literno,Degree,Student,No,3,No,1,No,,3,4,4,4,5,3,5,No,Yes,No,No,No,No,5,5,3,4,5,3,3,3,5,4,No,Yes,Villa/Small Villa,No,4,Car,1,
+29,Female,Cohabiting,Napoli,Degree,Self-Employed,No,2,Yes,1,No,None,3,1,1,1,3,2,1,Yes,Yes,No,Yes,No,Yes,1,1,1,1,3,1,1,1,3,1,Yes,No,Apartment,No,3,Motorcycle/Scooter,2,Between €28000 and €50000
+33,Male,Unmarried,Modena,Degree,Student Worker,Yes,4,No,1,No,Left,3,3,3,1,4,3,4,Yes,Yes,No,Yes,No,No,3,3,1,4,4,3,3,3,4,3,No,No,Apartment,No,0,None,4,Between €28000 and €50000
+44,Female,Cohabiting,Napoli,Postgraduate Degree,Self-Employed,No,2,No,5,Yes,,3,3,3,4,2,4,3,Yes,Yes,No,Yes,No,Yes,2,2,2,3,3,2,2,1,4,1,No,Yes,Apartment,Yes,1,Motorcycle/Scooter,4,
+22,Female,Unmarried,Milano,Degree,Student,Yes,3,No,1,No,Left,1,5,5,3,4,5,5,Yes,Yes,No,Yes,No,No,3,2,4,2,5,3,2,2,4,3,No,Yes,Apartment,Yes,1,Car,1,Up to €15000
+65,Female,Separated,Somma Vesuviana,Degree,Self-Employed,No,3,No,0 (Ground Floor),Yes,,4,4,4,2,2,4,4,Yes,Yes,Yes,Yes,Yes,Yes,2,2,2,3,3,2,2,2,3,1,No,Yes,Apartment,Yes,1,Car,3,
+59,,Married,Napoli,Degree,Employee,No,5,No,5,No,,3,3,3,2,2,4,3,Yes,Yes,No,Yes,No,No,3,3,2,3,4,2,1,1,3,2,Yes,Yes,Apartment,Yes,4,Car and Motorcycle,3,
+26,Male,Unmarried,Somma Vesuviana,Degree,Employee,Yes,3,No,0 (Ground Floor),No,Left,1,3,5,5,4,3,4,Yes,Yes,No,No,No,No,3,3,4,3,5,1,1,1,4,2,No,Yes,Apartment,Yes,1,Car,2,
+57,Female,Married,Somma Vesuviana,Postgraduate Degree,Self-Employed,No,4,No,0 (Ground Floor),Yes,,4,4,3,1,4,1,2,Yes,Yes,Yes,Yes,Yes,Yes,2,2,2,2,2,1,1,1,3,1,No,Yes,Villa/Small Villa,No,1,Car,1,
+65,Female,Married,Piedimonte Matese,Postgraduate Degree,Self-Employed,No,4,No,2,Yes,Left,3,3,4,2,4,4,3,Yes,No,No,No,No,Yes,3,3,4,2,3,2,2,1,4,2,No,Yes,Apartment,No,2,Car,1,Up to €15000
+43,Female,Cohabiting,Torino,Degree,Employee,Yes,3,No,3,Yes,None,3,2,2,2,4,3,4,Yes,Yes,No,No,No,Yes,2,2,3,2,3,3,4,2,3,2,No,Yes,Apartment,Yes,2,Car,2,
+62,Male,Married,Giugliano,Degree,Self-Employed,No,5,Yes,2,Yes,Center,2,3,1,1,3,1,3,Yes,Yes,No,No,No,Yes,2,2,2,2,2,2,3,2,2,3,No,Yes,Villa/Small Villa,Yes,5,Car and Motorcycle,1,Over €50000
+32,Female,Unmarried,Piedimonte Matese,Postgraduate Degree,Self-Employed,No,4,No,2,No,Left,3,3,4,3,2,4,4,Yes,No,No,Yes,No,No,3,4,4,4,3,2,2,2,3,2,No,Yes,Apartment,No,0,None,1,Between €15000 and €28000
+31,Male,Unmarried,Napoli,Degree,Student Worker,No,2,No,Over 5,No,Left,2,2,2,1,2,1,1,Yes,Yes,No,Yes,No,No,2,2,2,2,3,2,2,1,4,3,No,Yes,Apartment,Yes,1,Car,1,Between €28000 and €50000
+25,Female,Unmarried,Napoli,Degree,Student,Yes,4,No,2,No,,3,4,4,4,4,4,4,Yes,Yes,No,Yes,No,No,5,5,5,4,4,3,3,3,4,1,No,Yes,Villa/Small Villa,No,3,Car and Motorcycle,2,
+58,Female,Married,San Giorgio A Cremano,Degree,Employee,No,4,No,2,Yes,,3,4,4,1,3,4,4,Yes,Yes,No,Yes,No,Yes,2,2,2,2,2,2,2,2,4,3,Yes,Yes,Apartment,Yes,2,Car,3,
+38,Female,Unmarried,Vico Equense,Degree,Unemployed,No,1,No,2,No,Left,1,4,4,2,2,4,5,Yes,Yes,No,Yes,No,No,1,1,3,2,4,1,3,3,4,1,No,Yes,Apartment,Yes,2,Car and Motorcycle,5,
+64,Male,Married,Giugliano,Degree,Retired,No,3,No,0 (Ground Floor),Yes,Left,2,2,2,2,4,2,2,Yes,Yes,No,Yes,No,Yes,3,3,3,3,2,2,3,3,4,3,Yes,Yes,Villa/Small Villa,No,1,Car,4,Between €28000 and €50000
+56,Female,Cohabiting,Pozzuoli,Lower Secondary School,Unemployed,No,2,,1,Yes,,4,4,4,4,3,4,4,Yes,Yes,No,Yes,Yes,Yes,1,2,3,3,3,2,2,3,3,2,No,No,Apartment,No,0,None,4,
+30,Male,Unmarried,Pozzuoli,Degree,Student,No,3,No,3,No,,3,3,5,1,3,3,5,Yes,Yes,Yes,Yes,Yes,No,3,3,2,3,2,2,2,2,3,2,No,Yes,Apartment,Yes,3,Car,3,
+31,Male,Unmarried,Pozzuoli,Postgraduate Degree,Employee,No,3,No,0 (Ground Floor),No,Left,4,3,4,1,3,4,4,Yes,Yes,Yes,Yes,Yes,Yes,3,3,2,3,3,3,3,2,4,3,Yes,Yes,Villa/Small Villa,No,1,Car,1,Between €28000 and €50000
+59,Female,Unmarried,Napoli,Degree,Self-Employed,No,4,No,1,Yes,,3,5,5,4,4,5,5,Yes,Yes,Yes,Yes,Yes,Yes,5,5,5,5,5,3,3,3,4,3,No,Yes,Apartment,No,1,Car,3,Between €15000 and €28000
+30,Female,Unmarried,Giugliano,Upper Secondary School,Employee,No,3,No,3,No,,3,3,3,5,5,3,3,No,Yes,Yes,Yes,Yes,No,5,5,5,5,5,3,1,1,1,3,Yes,No,Apartment,No,0,None,3,
+37,Female,Married,Pozzuoli,Upper Secondary School,Unemployed,No,4,No,0 (Ground Floor),No,None,3,3,2,1,3,4,4,Yes,Yes,Yes,Yes,Yes,Yes,1,2,2,2,2,2,1,1,3,2,Yes,Yes,Villa/Small Villa,No,2,Car,1,Between €15000 and €28000
+40,Female,Cohabiting,Pozzuoli,Lower Secondary School,Employee,No,4,No,2,No,None,4,5,5,5,5,5,5,Yes,No,Yes,Yes,Yes,Yes,3,3,3,3,4,2,2,1,3,2,Yes,No,Apartment,Yes,1,Car,3,Up to €15000
+66,Female,Divorced,Napoli,Degree,Retired,No,1,No,0 (Ground Floor),Yes,Left,3,2,2,1,3,4,3,Yes,No,No,No,No,No,2,3,3,3,2,2,3,1,4,2,No,No,Apartment,No,0,None,3,Between €28000 and €50000
+26,Female,Unmarried,Bacoli,Degree,Employee,No,4,No,0 (Ground Floor),No,Left,3,4,5,4,1,5,5,Yes,Yes,Yes,Yes,Yes,Yes,3,2,2,2,2,3,2,2,5,1,Yes,Yes,Villa/Small Villa,No,2,Car,3,Up to €15000
+47,Female,Married,Pozzuoli,Degree,Employee,No,4,No,1,Yes,Left,1,1,1,1,3,3,1,Yes,Yes,No,Yes,No,Yes,2,1,2,2,2,2,3,3,4,3,Yes,No,Apartment,No,2,Car,3,Between €28000 and €50000
+34,Female,Unmarried,Somma Vesuviana,Upper Secondary School,Employee,No,3,No,1,No,Left,4,5,5,3,3,5,5,Yes,Yes,Yes,Yes,Yes,Yes,3,4,3,3,3,3,4,4,5,2,No,Yes,Apartment,No,1,Car,2,Between €15000 and €28000
+25,Female,Married,Martina Franca,Degree,Student,Yes,2,No,0 (Ground Floor),No,None,1,3,3,2,4,2,3,Yes,Yes,No,Yes,No,No,3,3,3,4,4,3,3,3,3,3,No,Yes,Apartment,Yes,1,Car,3,Between €15000 and €28000
+34,Female,Married,Pozzuoli,Degree,Self-Employed,No,5,No,4,No,None,1,3,4,1,3,3,3,Yes,No,No,No,No,No,3,3,3,3,3,2,2,2,2,2,No,No,Apartment,No,1,Car,3,Up to €15000
+56,Male,Cohabiting,Napoli,Upper Secondary School,Self-Employed,No,4,No,3,Yes,,5,5,5,3,3,5,5,Yes,Yes,Yes,Yes,Yes,Yes,3,3,3,3,4,2,2,2,4,3,No,Yes,Apartment,Yes,2,Car and Motorcycle,2,Between €15000 and €28000
+47,Male,Married,Pozzuoli,Postgraduate Degree,Employee,No,5,No,3,Yes,Left,3,3,2,1,2,1,2,Yes,Yes,Yes,Yes,Yes,Yes,3,3,2,3,2,1,1,1,2,1,No,Yes,Apartment,No,1,Car,2,Between €28000 and €50000
+58,Female,Married,Napoli,Upper Secondary School,Unemployed,No,3,No,2,Yes,,5,5,5,4,3,5,5,No,Yes,Yes,Yes,Yes,Yes,3,2,2,3,2,3,3,2,5,3,Yes,No,Apartment,No,1,Car,2,
+52,Female,Divorced,Bacoli,Degree,Self-Employed,Yes,3,No,0 (Ground Floor),No,Right,2,3,3,1,5,4,4,Yes,Yes,Yes,Yes,Yes,Yes,3,3,3,4,4,3,4,4,5,3,Yes,Yes,Villa/Small Villa,No,4,Car and Motorcycle,2,Between €28000 and €50000
+36,Male,Cohabiting,Pozzuoli,Degree,Self-Employed,No,4,No,2,No,Right,3,2,2,1,4,3,3,Yes,Yes,No,Yes,No,Yes,1,2,1,1,3,4,4,2,4,2,Yes,Yes,Apartment,No,1,Car,2,Over €50000
+60,Female,Separated,Pozzuoli,Degree,Employee,No,2,No,0 (Ground Floor),Yes,Left,3,3,4,3,3,4,4,Yes,Yes,No,No,No,Yes,1,2,3,2,3,4,4,3,4,3,No,Yes,Apartment,No,1,Car,2,Between €15000 and €28000
+45,Female,Unmarried,Napoli,Degree,Self-Employed,No,4,Yes,2,Yes,,2,2,2,2,2,3,3,Yes,Yes,Yes,Yes,Yes,Yes,2,2,2,2,3,1,1,2,2,2,Yes,No,Apartment,Yes,1,Car,3,
+52,Female,Divorced,Caserta,Upper Secondary School,Employee,No,2,No,0 (Ground Floor),Yes,None,3,4,5,1,5,2,3,Yes,Yes,No,No,No,No,3,3,3,4,1,1,1,2,4,1,No,Yes,Villa/Small Villa,No,1,Car,5,Between €28000 and €50000
+51,Female,Unmarried,Napoli,Upper Secondary School,Employee,Yes,3,No,3,Yes,,4,3,5,4,4,5,5,Yes,Yes,Yes,Yes,Yes,Yes,3,3,4,3,4,3,3,3,4,3,No,Yes,Apartment,Yes,1,Car,3,Between €15000 and €28000
+67,Female,Married,Pozzuoli,Upper Secondary School,Retired,No,4,No,0 (Ground Floor),Yes,Left,3,3,4,2,2,3,5,Yes,No,No,Yes,Yes,Yes,3,3,4,3,5,3,2,2,3,2,Yes,Yes,Apartment,No,4,Car,3,
+50,Female,Cohabiting,Napoli,Degree,Self-Employed,No,5,Yes,Over 5,Yes,None,4,4,4,1,4,4,4,Yes,Yes,Yes,Yes,Yes,Yes,1,1,2,2,4,1,1,1,3,3,Yes,No,Apartment,Yes,1,Car and Motorcycle,3,
+45,Female,Cohabiting,Bacoli,Upper Secondary School,Unemployed,No,4,No,1,Yes,,3,4,4,3,2,2,5,Yes,Yes,Yes,Yes,Yes,Yes,3,4,3,3,3,3,3,3,3,3,No,No,Apartment,No,1,Car,5,Up to €15000
+54,Female,Unmarried,Napoli,Upper Secondary School,Unemployed,No,5,No,4,Yes,Right,4,5,5,4,2,4,5,Yes,Yes,No,No,No,No,2,3,4,2,4,1,1,1,3,1,No,Yes,Apartment,Yes,0,None,5,
+46,Female,Unmarried,Villaricca,Upper Secondary School,Unemployed,Yes,Over 5,No,3,Yes,None,2,3,3,2,2,2,3,Yes,Yes,No,No,No,No,3,3,4,3,2,1,2,2,4,3,No,Yes,Apartment,No,3,Car,1,Up to €15000
+60,Female,Married,Pozzuoli,Degree,Employee,No,4,No,Over 5,Yes,,4,5,5,3,4,4,5,Yes,No,No,No,Yes,Yes,2,3,4,3,4,3,4,3,3,3,Yes,Yes,Apartment,Yes,1,Car,3,
+43,Female,Married,Bacoli,Upper Secondary School,Self-Employed,No,5,No,3,No,None,3,4,4,5,4,3,5,Yes,Yes,Yes,Yes,Yes,Yes,3,3,3,3,4,3,3,2,4,3,Yes,Yes,Apartment,No,5,Car,3,Between €15000 and €28000
+62,Female,Cohabiting,Pozzuoli,Upper Secondary School,Self-Employed,No,2,No,Over 5,Yes,,4,3,3,3,1,4,3,Yes,Yes,No,No,No,Yes,1,1,1,1,1,1,1,1,3,1,No,No,Apartment,Yes,0,None,3,
+46,Female,Married,Bacoli,Upper Secondary School,Self-Employed,No,5,No,1,Yes,Left,3,4,4,3,2,2,3,Yes,Yes,No,Yes,No,Yes,1,1,1,1,2,1,1,1,1,1,Yes,Yes,Apartment,No,2,Car,3,Up to €15000
+53,Female,Married,Napoli,Upper Secondary School,Self-Employed,No,3,No,1,Yes,None,4,3,4,4,2,4,4,Yes,Yes,Yes,Yes,Yes,Yes,2,2,3,2,3,2,1,1,2,1,Yes,No,Apartment,No,1,Car,1,
+49,Female,Married,Napoli,Lower Secondary School,Unemployed,No,5,No,1,Yes,,3,3,3,2,3,3,3,Yes,No,No,No,No,Yes,2,2,2,2,3,3,3,3,4,3,No,Yes,Apartment,Yes,2,Car,4,Up to €15000
+51,Female,Married,Pozzuoli,Degree,Self-Employed,No,Over 5,,1,Yes,,3,3,2,3,3,2,2,Yes,No,No,No,No,Yes,4,4,2,3,4,1,1,2,3,2,Yes,Yes,Apartment,No,1,Car,2,
+56,Female,Married,Pozzuoli,Degree,Self-Employed,No,4,Yes,0 (Ground Floor),Yes,Left,3,3,4,1,2,3,3,Yes,Yes,No,Yes,No,Yes,2,3,4,3,4,2,3,1,4,3,Yes,Yes,Villa/Small Villa,No,2,Car,1,
+35,Female,Cohabiting,Como,Upper Secondary School,Self-Employed,Yes,5,No,1,No,,3,3,3,1,3,4,3,Yes,Yes,No,Yes,No,No,1,1,4,1,4,3,2,2,4,2,No,Yes,Apartment,No,3,Car,1,
+44,Female,Married,Pozzuoli,Postgraduate Degree,Unemployed,No,4,No,2,No,None,2,3,3,1,1,1,3,Yes,Yes,No,Yes,Yes,No,1,1,2,1,3,2,1,1,3,2,No,No,Apartment,Yes,2,Car,1,Up to €15000
+41,Female,Unmarried,Caivano,Degree,Self-Employed,No,2,No,3,No,,3,3,3,3,2,1,3,Yes,Yes,No,Yes,No,Yes,2,2,3,2,3,2,1,1,3,2,Yes,No,Apartment,Yes,1,Car,2,Up to €15000
+47,Female,Married,Napoli,Degree,Unemployed,No,3,Yes,2,Yes,,4,5,5,2,2,5,5,Yes,Yes,Yes,Yes,Yes,Yes,4,3,3,3,2,2,3,1,4,3,No,Yes,Apartment,Yes,3,Car and Motorcycle,3,
+27,Female,Cohabiting,Pozzuoli,Postgraduate Degree,Self-Employed,No,2,No,1,No,Right,4,4,5,4,3,5,5,Yes,No,Yes,No,Yes,Yes,3,2,2,4,4,2,1,2,4,3,Yes,No,Apartment,No,1,Car,3,Between €15000 and €28000
+44,Female,Married,Pozzuoli,Upper Secondary School,Employee,No,2,No,3,Yes,Left,4,3,3,2,4,3,4,Yes,Yes,No,Yes,No,Yes,2,2,2,2,3,2,2,2,3,2,No,Yes,Apartment,No,1,Car,1,Over €50000
+53,Female,Married,Pozzuoli,Upper Secondary School,Employee,No,4,No,1,Yes,,3,4,5,1,3,5,5,Yes,No,Yes,Yes,Yes,Yes,1,3,4,3,3,2,3,3,3,3,Yes,Yes,Apartment,No,2,Car,3,Between €15000 and €28000
+55,Female,Married,Sant'Anastasia,Degree,Employee,Yes,3,No,1,Yes,Left,3,3,3,1,4,2,3,Yes,Yes,No,No,Yes,Yes,2,2,3,2,3,1,1,1,4,1,Yes,No,Villa/Small Villa,No,2,Car,1,Between €28000 and €50000
+40,Female,Unmarried,Giugliano,Degree,Self-Employed,No,2,No,2,No,,3,3,3,4,3,3,3,Yes,Yes,No,Yes,No,Yes,3,3,3,3,3,3,3,3,4,3,Yes,No,Apartment,Yes,1,Car,2,Between €15000 and €28000
+44,Male,Divorced,Napoli,Upper Secondary School,Employee,No,4,No,Over 5,No,Right,3,3,3,1,3,4,4,Yes,No,No,Yes,Yes,Yes,3,3,3,3,4,2,2,2,5,2,No,No,Apartment,Yes,3,Car,1,Over €50000
+54,Female,Married,Napoli,Postgraduate Degree,Employee,Yes,4,Yes,4,Yes,Left,4,4,4,2,4,4,4,Yes,Yes,Yes,Yes,Yes,Yes,3,3,2,3,3,4,4,4,5,4,Yes,Yes,Apartment,Yes,1,Car,2,Between €15000 and €28000
+54,Female,Married,Pozzuoli,Upper Secondary School,Unemployed,No,4,No,0 (Ground Floor),Yes,Left,3,4,4,3,3,4,4,Yes,No,No,No,No,Yes,3,2,2,2,3,1,1,2,3,3,No,No,Villa/Small Villa,No,2,Car,2,Up to €15000
+65,Female,Widowed,Pozzuoli,Postgraduate Degree,Employee,No,1,No,2,Yes,None,3,2,1,2,4,2,2,Yes,Yes,No,No,No,Yes,1,1,2,1,1,1,2,2,3,2,Yes,Yes,Villa/Small Villa,No,2,Car,2,
+47,Female,Married,Napoli,Degree,Unemployed,No,4,No,2,Yes,Left,2,3,4,3,1,5,5,Yes,Yes,Yes,Yes,Yes,No,1,1,5,1,4,1,1,1,5,3,Yes,Yes,Apartment,No,1,Car,3,Between €15000 and €28000
+40,Female,Married,Pozzuoli,Postgraduate Degree,Employee,No,4,No,1,Yes,Left,5,3,3,3,2,5,4,Yes,Yes,No,No,No,No,2,2,5,2,4,2,2,1,4,3,Yes,Yes,Apartment,Yes,2,Car,2,Between €28000 and €50000
+41,Female,Married,San Giorgio A Cremano,Degree,Employee,No,2,No,3,No,,5,5,5,3,1,5,5,Yes,No,Yes,Yes,Yes,No,1,1,3,1,3,1,1,1,3,1,No,No,Apartment,Yes,1,Car,3,
+24,Female,Unmarried,Brescia,Degree,Student,Yes,4,No,0 (Ground Floor),No,None,2,4,4,1,3,1,3,Yes,Yes,No,Yes,No,No,2,3,3,2,2,2,3,3,4,2,No,Yes,Villa/Small Villa,No,0,None,1,
+37,Female,Married,Bacoli,Degree,Employee,No,3,No,1,No,Left,3,4,5,1,1,3,5,Yes,Yes,No,No,No,Yes,1,1,4,2,3,1,1,1,3,1,No,Yes,Apartment,No,1,Car,3,Up to €15000
+60,Female,Married,Varese,Degree,Employee,Yes,3,No,0 (Ground Floor),Yes,,3,4,3,2,2,3,4,Yes,Yes,No,No,Yes,Yes,1,1,3,2,4,2,1,1,3,2,Yes,Yes,Villa/Small Villa,No,1,Car,2,
+47,Female,Married,Napoli,Upper Secondary School,Employee,No,3,,1,Yes,Left,3,3,3,3,3,3,3,Yes,Yes,Yes,Yes,Yes,Yes,2,2,4,3,4,3,2,2,4,3,Yes,Yes,Villa/Small Villa,No,1,Car,3,
+47,Female,Married,Napoli,Degree,Employee,No,4,No,1,Yes,,5,5,5,5,3,5,5,Yes,Yes,No,Yes,No,Yes,2,2,3,1,3,2,2,2,3,3,No,Yes,Apartment,No,1,Car,3,Between €15000 and €28000
+58,Female,Divorced,Napoli,Lower Secondary School,Employee,Yes,1,Yes,5,Yes,None,4,4,3,3,5,4,3,Yes,Yes,Yes,Yes,Yes,No,2,2,3,2,4,1,1,1,3,1,Yes,Yes,Apartment,No,0,None,3,Between €15000 and €28000
+45,Female,Married,Napoli,Lower Secondary School,Self-Employed,No,4,No,0 (Ground Floor),No,None,4,5,5,5,5,4,5,Yes,Yes,Yes,Yes,Yes,Yes,4,4,5,4,5,2,1,1,1,1,No,Yes,Villa/Small Villa,No,1,Car,2,Up to €15000
+51,Male,Married,Pozzuoli,Upper Secondary School,Employee,No,3,No,2,Yes,None,3,3,4,3,4,4,4,Yes,Yes,No,No,Yes,Yes,2,2,3,3,3,1,1,2,4,3,No,Yes,Apartment,Yes,4,Car and Motorcycle,3,Between €28000 and €50000
+57,Female,Married,Napoli,Degree,Employee,No,5,Yes,3,Yes,,3,3,3,1,4,1,3,Yes,Yes,No,No,Yes,Yes,1,1,2,3,3,3,4,2,5,3,No,Yes,Apartment,Yes,2,Car,1,
+36,Female,Married,Quarto,Degree,Employee,No,2,No,1,No,,3,3,4,3,2,4,3,Yes,Yes,Yes,Yes,Yes,Yes,2,2,4,3,4,3,3,3,3,2,Yes,Yes,Apartment,No,2,Car,2,Up to €15000
+45,Female,Married,Napoli,Lower Secondary School,Self-Employed,No,4,No,0 (Ground Floor),No,None,5,5,5,5,5,4,5,Yes,Yes,Yes,Yes,Yes,No,4,4,5,4,5,1,1,1,1,1,No,Yes,Villa/Small Villa,No,1,Car,2,Up to €15000
+56,Female,Married,Napoli,Upper Secondary School,Unemployed,No,5,No,1,Yes,None,3,3,3,1,4,3,4,Yes,No,No,No,No,Yes,3,2,4,3,4,2,2,2,4,2,No,Yes,Apartment,Yes,3,Car,2,
+58,Male,Married,Napoli,Degree,Self-Employed,No,4,Yes,4,Yes,None,3,4,4,1,3,4,5,Yes,No,No,No,No,Yes,3,3,4,3,1,3,3,2,3,2,No,No,Apartment,Yes,1,Car,3,Between €15000 and €28000
+52,Female,Married,Pozzuoli,Upper Secondary School,Self-Employed,No,3,No,0 (Ground Floor),Yes,,5,5,5,4,2,5,5,No,No,No,No,No,Yes,1,1,1,1,1,1,2,2,2,3,Yes,Yes,Apartment,No,2,Car,2,
+54,Female,Married,Qualiano,Lower Secondary School,Unemployed,No,4,No,2,Yes,Left,2,3,4,2,2,4,4,No,No,Yes,No,Yes,No,4,4,4,3,4,3,3,3,4,2,No,Yes,Apartment,No,1,Car,3,Up to €15000
+52,Female,Married,Napoli,Lower Secondary School,Unemployed,No,4,Yes,0 (Ground Floor),Yes,None,4,5,5,5,5,5,5,No,Yes,No,No,Yes,Yes,5,5,5,5,5,3,3,3,4,3,No,Yes,Apartment,No,1,Car,1,
+46,Male,Separated,Monopoli,Postgraduate Degree,Self-Employed,Yes,1,No,0 (Ground Floor),Yes,,1,1,1,1,5,1,1,Yes,Yes,No,No,No,No,2,2,2,2,4,3,3,3,1,2,Yes,Yes,Apartment,No,1,Car,4,
+34,Female,Cohabiting,Pozzuoli,Upper Secondary School,Employee,No,3,No,0 (Ground Floor),No,None,3,4,5,3,2,5,5,No,No,Yes,No,Yes,Yes,3,2,3,2,3,2,2,2,3,3,Yes,No,Apartment,No,1,Car,3,Up to €15000
+23,Female,Unmarried,Pozzuoli,Upper Secondary School,Student,No,5,No,0 (Ground Floor),No,None,3,4,4,2,2,4,3,Yes,Yes,No,Yes,No,No,1,1,2,1,2,1,1,1,2,1,Yes,Yes,Other,No,1,Car,2,Up to €15000
+25,Male,Cohabiting,Giugliano,Lower Secondary School,Self-Employed,No,2,No,2,No,,1,5,5,5,2,5,5,Yes,No,Yes,No,Yes,Yes,2,1,3,2,3,3,3,4,3,3,No,No,Apartment,No,2,Car,3,
+30,Male,Cohabiting,Cava De' Tirreni,Degree,Employee,No,4,No,1,No,None,4,4,5,3,3,5,5,Yes,Yes,Yes,No,No,Yes,2,1,2,1,4,3,3,1,4,1,Yes,No,Apartment,No,1,Car,2,Between €28000 and €50000
+46,Female,Married,Napoli,Postgraduate Degree,Employee,No,3,No,4,Yes,Left,4,2,2,2,3,3,3,Yes,Yes,No,Yes,No,Yes,1,1,1,1,4,3,3,2,5,2,No,Yes,Apartment,Yes,1,Car,2,
+44,Female,Married,Napoli,Upper Secondary School,Employee,No,4,No,1,Yes,,3,4,5,3,3,4,4,Yes,No,No,No,Yes,Yes,2,3,5,3,4,3,3,2,4,2,No,Yes,Apartment,No,0,None,3,
+23,Female,Unmarried,Giugliano,Degree,Student,No,3,No,2,No,Left,3,5,5,3,4,3,4,Yes,Yes,No,Yes,No,Yes,2,2,1,3,3,1,1,1,5,1,No,Yes,Other,No,1,Car,2,Between €15000 and €28000
+29,Male,Unmarried,Pozzuoli,Degree,Employee,No,3,No,4,No,Left,4,2,2,1,4,1,1,Yes,Yes,No,No,No,Yes,3,3,3,3,3,1,1,1,5,2,Yes,No,Apartment,Yes,2,Car,2,
+41,Female,Cohabiting,Napoli,Upper Secondary School,Unemployed,Yes,2,No,0 (Ground Floor),No,Left,4,5,5,4,5,5,5,Yes,Yes,Yes,Yes,Yes,Yes,1,1,3,1,4,2,2,2,4,2,Yes,Yes,Apartment,No,1,Car,3,Between €15000 and €28000
+43,Female,Unmarried,Napoli,Upper Secondary School,Unemployed,No,3,No,4,Yes,,3,3,3,2,4,4,5,No,No,No,Yes,Yes,Yes,4,2,3,4,5,3,3,1,5,3,Yes,Yes,Apartment,Yes,2,Car,2,Up to €15000
+37,Female,Married,Napoli,Upper Secondary School,Self-Employed,No,3,No,0 (Ground Floor),No,,5,3,3,1,4,5,4,Yes,Yes,Yes,Yes,Yes,Yes,1,1,2,1,3,1,1,1,4,3,Yes,Yes,Apartment,No,1,Car,4,Up to €15000
+25,Female,Unmarried,Salerno,Degree,Unemployed,No,4,No,1,No,None,3,2,2,1,3,2,3,Yes,Yes,No,Yes,No,Yes,1,3,3,1,3,1,1,1,5,3,Yes,Yes,Villa/Small Villa,No,3,Car,2,Between €15000 and €28000
+60,Female,Divorced,Napoli,Upper Secondary School,Employee,No,2,No,1,Yes,None,3,3,4,3,3,2,2,Yes,Yes,No,Yes,No,No,2,3,1,2,3,2,2,1,3,2,No,Yes,Apartment,Yes,1,Car,3,Between €15000 and €28000
+34,Female,Married,Torino,Degree,Employee,Yes,3,No,3,No,,2,3,3,2,3,2,3,Yes,Yes,No,Yes,No,Yes,1,3,4,2,5,3,2,3,5,1,Yes,Yes,Apartment,Yes,1,Car,3,
+32,Female,Cohabiting,Quarto,Lower Secondary School,Unemployed,No,2,No,0 (Ground Floor),No,None,3,3,4,2,2,3,3,Yes,No,Yes,Yes,No,Yes,2,2,4,3,3,2,2,2,3,2,Yes,Yes,Apartment,No,1,Car,3,Up to €15000
+39,Female,Married,Napoli,Degree,Employee,No,Over 5,Yes,3,No,Left,4,3,4,2,4,2,4,Yes,Yes,No,Yes,Yes,Yes,3,3,4,3,4,3,3,3,3,3,No,Yes,Apartment,Yes,1,Car,3,Between €15000 and €28000
+41,Female,Unmarried,Pozzuoli,Postgraduate Degree,Employee,No,3,Yes,0 (Ground Floor),No,Center,3,3,4,4,5,4,3,Yes,Yes,No,Yes,No,Yes,2,2,1,3,3,2,2,2,4,3,Yes,Yes,Villa/Small Villa,No,2,Car and Motorcycle,1,Over €50000
+43,Female,Cohabiting,Napoli,Upper Secondary School,Self-Employed,No,3,No,0 (Ground Floor),No,Left,4,4,5,1,1,2,5,Yes,Yes,Yes,Yes,Yes,Yes,2,3,4,4,3,1,1,1,4,4,No,Yes,Apartment,No,1,Car,1,Up to €15000
+49,Female,Cohabiting,Pozzuoli,Degree,Self-Employed,No,4,No,1,Yes,None,3,5,5,3,5,5,5,Yes,Yes,Yes,Yes,Yes,Yes,2,2,3,3,4,1,2,2,3,3,Yes,No,Other,No,2,Car,3,
+33,Male,Unmarried,Pozzuoli,Degree,Employee,No,4,No,1,No,Left,3,3,3,2,4,3,3,Yes,Yes,No,No,No,Yes,2,2,4,3,3,3,2,2,3,3,Yes,Yes,Apartment,No,1,Car,1,Between €15000 and €28000
+48,Female,Married,Lucca,Lower Secondary School,Employee,Yes,4,No,0 (Ground Floor),Yes,None,2,4,3,1,1,3,1,Yes,No,No,Yes,No,No,1,4,5,3,2,4,3,2,3,2,Yes,Yes,Other,No,2,Car,3,Between €28000 and €50000
+47,Female,Married,Napoli,Lower Secondary School,Unemployed,No,4,No,2,Yes,,5,5,4,4,3,5,4,Yes,No,No,No,Yes,No,1,2,3,1,5,1,1,1,3,3,Yes,No,Apartment,No,1,Car,1,Up to €15000
+62,Female,Married,Somma Vesuviana,Degree,Employee,No,Over 5,No,3,Yes,Left,3,3,3,3,3,4,4,Yes,Yes,Yes,Yes,Yes,Yes,2,1,3,2,1,1,1,1,3,1,No,Yes,Apartment,Yes,2,Car,4,Between €15000 and €28000
+22,Male,Unmarried,Sant’Antimo,Degree,Unemployed,No,4,No,2,No,,1,1,1,1,3,2,1,Yes,Yes,No,Yes,No,No,4,3,4,3,3,1,1,1,4,2,No,No,Apartment,No,1,Car,3,
+39,Female,Married,Napoli,Upper Secondary School,Employee,No,4,No,3,No,Left,2,3,3,3,3,4,4,Yes,Yes,Yes,Yes,Yes,Yes,3,3,4,3,4,2,2,2,3,2,No,Yes,Apartment,Yes,2,Car,3,Up to €15000
+42,Female,Cohabiting,Napoli,Degree,Employee,No,2,No,Over 5,Yes,Left,4,4,4,3,3,4,4,Yes,Yes,Yes,Yes,Yes,Yes,2,2,3,2,4,1,1,1,3,3,Yes,Yes,Apartment,Yes,0,None,3,Up to €15000
+47,Female,Married,Napoli,Postgraduate Degree,Employee,No,4,No,3,Yes,Left,3,3,4,4,4,5,4,Yes,Yes,No,Yes,Yes,Yes,3,3,4,2,5,1,1,1,4,3,Yes,Yes,Apartment,Yes,1,Car,3,Between €28000 and €50000
+42,Female,Married,Pozzuoli,Upper Secondary School,Unemployed,No,4,No,1,No,None,4,4,4,3,4,3,4,Yes,Yes,No,Yes,No,Yes,2,2,3,3,3,2,2,2,3,2,No,Yes,Apartment,No,2,Car,2,
+21,Male,Unmarried,Qualiano,Upper Secondary School,Student,No,4,No,1,No,Center,3,2,1,1,4,1,2,Yes,Yes,No,Yes,No,Yes,3,3,4,3,3,2,1,3,3,1,No,Yes,Villa/Small Villa,No,3,Car,2,
+38,Female,Married,Napoli,Degree,Employee,No,4,No,0 (Ground Floor),No,Left,4,4,4,3,3,4,4,Yes,Yes,Yes,Yes,Yes,Yes,3,3,4,3,4,1,1,1,3,1,Yes,Yes,Apartment,Yes,4,Car,2,Between €15000 and €28000
+29,Female,Unmarried,Catania,Upper Secondary School,Student,Yes,4,No,1,No,None,3,3,4,2,4,4,5,Yes,Yes,Yes,Yes,Yes,Yes,1,1,3,1,3,3,3,2,5,3,Yes,Yes,Apartment,No,2,Car,5,Between €28000 and €50000
+44,Female,Unmarried,Napoli,Upper Secondary School,Unemployed,No,4,No,2,No,Right,4,5,5,2,2,5,4,Yes,No,No,Yes,Yes,Yes,3,3,4,2,3,2,1,1,4,2,Yes,Yes,Apartment,Yes,2,Car,2,Over €50000
+27,Female,Unmarried,Napoli,Degree,Employee,No,3,No,3,No,,4,5,5,2,4,5,5,Yes,Yes,Yes,Yes,Yes,Yes,2,1,1,3,3,1,1,1,4,2,Yes,Yes,Apartment,No,1,Car,2,Between €15000 and €28000
+47,Male,Unmarried,Pozzuoli,Upper Secondary School,Unemployed,No,2,Yes,4,Yes,,3,3,4,1,3,4,4,Yes,Yes,Yes,Yes,No,No,3,3,3,3,4,2,2,3,3,3,Yes,Yes,Apartment,No,1,Car,3,
+44,Female,Married,Pozzuoli,Upper Secondary School,Employee,Yes,5,No,1,No,Left,3,4,4,3,3,5,4,Yes,Yes,Yes,No,Yes,No,3,3,3,3,4,2,2,2,3,3,No,Yes,Apartment,No,4,Car and Motorcycle,3,Between €28000 and €50000
+26,Female,Cohabiting,Mori,Degree,Employee,Yes,2,No,3,No,,3,3,3,1,2,2,3,Yes,Yes,No,Yes,No,No,2,2,2,2,2,2,3,1,4,3,No,No,Apartment,Yes,3,Car and Motorcycle,4,Between €15000 and €28000
+64,Female,Married,Napoli,Upper Secondary School,Retired,No,2,No,1,Yes,Right,4,5,5,1,2,4,5,No,No,No,Yes,Yes,Yes,5,5,5,3,4,1,1,3,4,2,Yes,Yes,Apartment,Yes,1,Car,3,Between €15000 and €28000
+34,Female,Married,Pozzuoli,Postgraduate Degree,Employee,No,2,No,0 (Ground Floor),No,Center,4,4,4,1,3,4,4,Yes,Yes,No,Yes,No,Yes,1,1,2,2,3,2,2,2,4,2,Yes,No,Apartment,No,2,Car,1,Over €50000
+52,Male,Married,Napoli,Degree,Employee,No,3,No,5,Yes,Left,4,4,5,2,4,4,5,Yes,Yes,Yes,Yes,Yes,Yes,2,2,4,3,4,1,1,1,4,2,Yes,Yes,Apartment,Yes,2,Car,3,Between €15000 and €28000
+64,Female,Married,Cesa,Degree,Employee,No,2,No,5,Yes,,3,4,4,2,2,4,3,Yes,Yes,No,Yes,No,Yes,3,3,3,3,3,3,2,2,3,2,No,Yes,Apartment,Yes,2,Car and Motorcycle,3,Between €28000 and €50000
+42,Female,Cohabiting,Napoli,Upper Secondary School,Employee,No,2,No,0 (Ground Floor),No,,3,4,4,2,3,5,4,Yes,Yes,No,Yes,No,No,2,2,3,3,3,1,1,2,3,3,No,No,Apartment,No,0,None,3,Between €15000 and €28000
+36,Female,Married,Pozzuoli,Upper Secondary School,Employee,No,4,No,1,No,None,4,5,5,4,3,3,5,No,Yes,Yes,Yes,Yes,Yes,2,2,2,2,3,3,3,3,3,3,Yes,Yes,Villa/Small Villa,No,3,Car,1,Between €28000 and €50000
+34,Female,Cohabiting,Bagnoli,Postgraduate Degree,Unemployed,No,2,Yes,0 (Ground Floor),No,Left,4,3,2,3,5,2,4,Yes,Yes,Yes,Yes,Yes,Yes,3,3,4,2,5,1,1,1,3,2,No,No,Apartment,No,1,Car,5,Up to €15000
+24,Male,Unmarried,Napoli,Degree,Student,Yes,4,No,0 (Ground Floor),No,Left,4,3,4,3,4,2,3,Yes,Yes,No,Yes,Yes,Yes,3,3,2,3,4,3,3,3,4,2,No,Yes,Apartment,Yes,2,Car and Motorcycle,1,Up to €15000
+60,Female,Married,Napoli,Degree,Employee,No,3,No,1,Yes,None,4,2,2,1,1,2,1,Yes,Yes,No,Yes,No,Yes,1,1,2,1,3,1,1,1,4,3,Yes,Yes,Villa/Small Villa,No,0,None,3,Between €28000 and €50000
+54,Female,Married,Pozzuoli,Degree,Unemployed,No,4,No,4,Yes,Left,4,2,2,2,4,3,2,Yes,No,No,No,No,Yes,3,2,4,3,5,1,1,1,3,3,Yes,Yes,Apartment,Yes,2,Car,2,
+64,Female,Married,Napoli,Upper Secondary School,Unemployed,No,2,No,2,Yes,Left,3,3,4,1,4,4,5,Yes,No,No,No,No,Yes,2,2,1,2,3,1,1,1,4,2,Yes,No,Apartment,No,1,Car,3,
+66,Female,Unmarried,Napoli,Degree,Retired,No,1,No,1,Yes,Left,4,5,5,3,3,3,4,Yes,No,No,Yes,Yes,Yes,3,3,3,3,3,2,2,2,4,3,No,Yes,Apartment,Yes,0,None,2,
+52,Female,Unmarried,Napoli,Upper Secondary School,Employee,No,2,No,3,Yes,,4,4,3,3,2,1,4,Yes,Yes,Yes,Yes,Yes,Yes,3,3,1,2,1,3,3,2,4,3,No,Yes,Apartment,Yes,1,Car,4,
+31,Female,Unmarried,Pozzuoli,Degree,Employee,No,2,No,2,No,None,3,3,3,4,2,4,3,Yes,No,No,No,No,No,1,1,1,1,3,3,3,3,3,3,No,Yes,Apartment,No,1,Car,3,Between €15000 and €28000
+45,Male,Married,Napoli,Upper Secondary School,Self-Employed,No,3,No,3,Yes,None,3,2,2,1,4,1,2,Yes,No,No,No,No,No,5,5,5,4,4,3,3,2,4,3,No,Yes,Apartment,Yes,2,Car,2,Between €15000 and €28000
+44,Female,Married,Pozzuoli,Upper Secondary School,Self-Employed,No,3,Yes,0 (Ground Floor),Yes,,3,4,4,3,4,4,4,Yes,No,Yes,No,Yes,No,1,3,3,3,3,3,3,3,5,3,Yes,No,Apartment,No,2,Car,3,Between €15000 and €28000
+32,Female,Married,Giugliano,Degree,Self-Employed,No,3,No,2,No,,2,2,4,1,2,2,4,Yes,No,Yes,No,Yes,Yes,3,3,1,3,2,1,1,1,3,1,Yes,Yes,Apartment,No,2,Car,2,Up to €15000
+31,Female,Cohabiting,Quarto,Postgraduate Degree,Self-Employed,No,3,No,1,No,None,2,3,3,1,3,2,3,Yes,Yes,No,Yes,No,Yes,3,3,2,2,2,2,2,3,3,2,Yes,No,Apartment,Yes,2,Car and Motorcycle,4,
+33,Male,Married,,Degree,Self-Employed,No,4,No,4,No,Right,2,3,2,1,3,2,4,Yes,No,No,No,No,Yes,3,3,3,3,3,1,1,1,3,1,No,Yes,Apartment,No,1,Car,2,
+47,Female,Unmarried,Napoli,Upper Secondary School,Unemployed,No,2,No,5,Yes,,3,3,4,1,3,3,4,Yes,Yes,Yes,No,Yes,Yes,2,3,5,3,5,2,2,3,4,2,No,Yes,Apartment,Yes,1,Car,3,
+26,Female,Cohabiting,Roma,Degree,Self-Employed,Yes,2,No,3,No,Center,3,3,3,3,3,4,3,Yes,Yes,Yes,No,Yes,Yes,3,3,3,2,3,3,3,2,4,3,No,Yes,Apartment,No,2,Car,3,Up to €15000
+40,Female,Married,,Upper Secondary School,Employee,No,4,No,1,No,None,2,3,4,2,2,4,4,Yes,Yes,No,Yes,No,No,3,2,1,3,3,4,4,4,4,3,No,No,Apartment,No,2,Car,3,Between €15000 and €28000
+61,Male,Married,Pozzuoli,Degree,Employee,No,2,No,0 (Ground Floor),No,Left,3,3,3,3,3,3,3,Yes,No,No,Yes,Yes,No,1,1,1,2,4,3,1,3,4,3,No,No,Villa/Small Villa,No,2,Car,1,Over €50000
+62,Female,Married,Napoli,Upper Secondary School,Unemployed,No,3,No,2,Yes,None,3,3,3,2,2,3,3,Yes,No,No,Yes,No,Yes,2,2,3,2,4,1,1,1,3,3,Yes,No,Apartment,No,1,Car,3,
+23,Male,Unmarried,Napoli,Degree,Student,No,4,Yes,3,No,Left,4,4,4,4,3,5,4,Yes,Yes,Yes,No,No,Yes,3,3,3,4,4,2,2,2,3,3,Yes,No,Apartment,No,2,Car,3,Up to €15000
+23,Male,Unmarried,Schio,Upper Secondary School,Student Worker,Yes,3,No,1,No,None,2,2,2,1,3,1,2,Yes,Yes,No,No,No,No,2,2,3,2,3,2,2,2,3,2,No,Yes,Other,No,3,Car,1,Between €15000 and €28000
+27,Female,Unmarried,Pozzuoli,Postgraduate Degree,Employee,No,5,No,4,No,Left,4,4,5,4,1,5,5,Yes,Yes,Yes,Yes,Yes,Yes,1,1,5,1,4,1,1,1,3,1,No,Yes,Apartment,No,2,Car,3,Up to €15000
+29,Male,Unmarried,Pozzuoli,Postgraduate Degree,Self-Employed,No,4,No,1,No,Left,3,2,1,1,4,1,2,Yes,Yes,No,Yes,No,Yes,1,3,4,3,4,1,3,2,5,3,Yes,Yes,Apartment,No,3,Car,2,Up to €15000
+45,Female,Unmarried,Pozzuoli,Upper Secondary School,Unemployed,No,Over 5,No,0 (Ground Floor),Yes,,3,3,3,2,3,3,3,Yes,Yes,Yes,Yes,Yes,Yes,3,2,2,2,3,2,2,2,2,2,Yes,Yes,Villa/Small Villa,No,2,Car and Motorcycle,3,Between €15000 and €28000
+25,Female,Unmarried,Bacoli,Degree,Self-Employed,No,4,No,2,No,Right,3,4,2,2,5,4,4,Yes,No,No,No,No,Yes,2,3,1,3,4,5,5,5,5,1,No,Yes,Apartment,No,4,Car and Motorcycle,1,Over €50000
+23,Female,Unmarried,Bergamo,Degree,Employee,Yes,5,No,2,No,None,3,3,4,1,2,2,3,Yes,No,No,Yes,No,No,3,3,2,4,3,2,2,2,3,2,No,Yes,Other,No,3,Car and Motorcycle,1,Between €15000 and €28000
+34,Female,Married,Mugnano,Upper Secondary School,Unemployed,No,4,Yes,1,No,None,1,1,1,1,1,1,2,Yes,Yes,No,Yes,No,Yes,3,3,4,3,4,2,2,3,3,3,Yes,Yes,Apartment,Yes,4,Car and Motorcycle,3,Up to €15000
+40,Male,Married,Pozzuoli,Upper Secondary School,Employee,No,4,No,1,No,None,4,3,3,1,3,3,4,Yes,Yes,No,No,Yes,Yes,3,3,3,3,4,3,3,3,3,3,Yes,Yes,Apartment,No,3,Car and Motorcycle,3,
+24,Female,Unmarried,Reggio Emilia,Degree,Student,Yes,2,No,0 (Ground Floor),No,,4,4,4,2,4,3,4,Yes,Yes,No,Yes,No,Yes,2,3,2,3,4,3,3,2,4,2,Yes,Yes,Villa/Small Villa,No,1,Car,2,Between €15000 and €28000
+44,Female,Unmarried,Pozzuoli,Upper Secondary School,Self-Employed,No,Over 5,No,0 (Ground Floor),No,None,3,4,4,2,2,4,4,Yes,No,Yes,Yes,Yes,Yes,2,2,2,2,3,2,2,1,1,3,Yes,Yes,Villa/Small Villa,No,0,None,3,
+61,Female,Cohabiting,Pozzuoli,Upper Secondary School,Unemployed,No,2,Yes,0 (Ground Floor),Yes,,1,1,1,1,1,1,3,Yes,No,No,No,No,Yes,3,3,3,3,4,1,1,1,2,2,Yes,Yes,Villa/Small Villa,No,1,Car,5,Up to €15000
+59,Female,Unmarried,Pozzuoli,Upper Secondary School,Employee,No,1,No,1,Yes,None,5,5,5,5,5,5,5,No,Yes,Yes,Yes,Yes,Yes,3,3,3,2,3,1,1,1,2,1,No,No,Apartment,No,1,Car,5,Up to €15000
+,Female,Unmarried,Quarto,Upper Secondary School,Student,No,4,Yes,1,No,,3,5,4,4,3,5,5,No,No,No,No,No,Yes,3,1,2,3,5,1,1,1,4,3,Yes,Yes,Villa/Small Villa,No,1,Car,3,Up to €15000
+38,Female,Married,Agnano,Lower Secondary School,Unemployed,No,Over 5,No,0 (Ground Floor),Yes,None,4,3,4,2,4,5,5,No,No,Yes,Yes,Yes,Yes,2,2,3,3,4,2,2,2,3,3,Yes,Yes,Apartment,No,4,Car and Motorcycle,5,Up to €15000
+48,Female,Cohabiting,Quarto,Upper Secondary School,Employee,No,2,,1,No,,4,4,4,2,2,1,5,No,No,No,Yes,No,Yes,3,3,5,1,5,1,2,1,3,1,No,No,Apartment,No,1,Car,3,Between €15000 and €28000
+27,Female,Unmarried,Foligno,Degree,Student,No,2,No,1,No,None,4,5,5,2,3,4,4,No,Yes,No,Yes,No,Yes,2,2,2,2,2,2,2,2,3,2,No,Yes,Apartment,Yes,2,Car,2,Between €15000 and €28000
+51,Female,Separated,Pozzuoli,Upper Secondary School,Employee,No,3,No,0 (Ground Floor),Yes,Left,3,3,3,2,3,3,3,Yes,No,Yes,Yes,Yes,Yes,3,2,3,2,3,2,2,1,4,3,Yes,No,Apartment,No,2,Car and Motorcycle,3,
+53,Female,Married,Pozzuoli,Upper Secondary School,Employee,No,3,No,5,Yes,None,3,3,4,2,4,4,5,Yes,Yes,No,Yes,No,Yes,3,3,4,3,4,3,3,3,3,3,Yes,No,Apartment,Yes,2,Car,4,
+40,Female,Married,Pozzuoli,Postgraduate Degree,Employee,No,2,No,1,No,,4,5,5,4,4,5,4,Yes,Yes,No,Yes,Yes,Yes,3,3,3,3,3,2,2,2,3,2,Yes,Yes,Apartment,No,1,Car,3,
+48,Female,Unmarried,Napoli,Degree,Employee,No,4,No,2,Yes,Left,4,3,3,3,4,4,4,Yes,Yes,Yes,Yes,Yes,Yes,2,2,2,3,3,2,2,2,4,3,Yes,Yes,Apartment,No,1,Car,3,Between €28000 and €50000
+35,Female,Cohabiting,Pozzuoli,Upper Secondary School,Employee,No,3,No,4,No,None,4,5,5,4,3,5,5,Yes,Yes,Yes,Yes,Yes,Yes,2,2,3,3,4,1,1,1,3,2,No,No,Apartment,No,1,Car,2,Up to €15000
+35,Female,Married,Pozzuoli,Postgraduate Degree,Self-Employed,No,2,Yes,0 (Ground Floor),No,,2,3,3,1,2,2,2,Yes,Yes,Yes,Yes,No,No,2,2,2,2,3,2,2,1,3,2,Yes,Yes,Villa/Small Villa,No,1,Car,1,Up to €15000
+61,Female,Unmarried,Cercola,Degree,Employee,No,3,Yes,2,Yes,Left,4,4,4,2,3,3,3,Yes,No,No,No,No,Yes,3,3,3,3,2,3,3,3,4,1,No,Yes,Apartment,No,2,Car,1,Between €15000 and €28000
+34,Female,Married,Bacoli,Upper Secondary School,Self-Employed,No,3,No,2,No,,3,4,5,5,3,4,5,Yes,No,Yes,Yes,Yes,No,3,3,3,3,4,3,3,3,4,3,Yes,Yes,Apartment,No,1,Car,3,
+42,Female,Married,Napoli,Upper Secondary School,Employee,No,4,No,2,No,,3,4,5,4,4,5,5,Yes,Yes,Yes,Yes,Yes,Yes,3,3,4,3,5,2,2,2,3,2,Yes,No,Apartment,Yes,0,None,3,
+48,Female,Separated,Napoli,Degree,Employee,No,3,No,3,Yes,Left,2,3,3,3,3,4,3,Yes,Yes,Yes,Yes,Yes,Yes,1,1,2,3,3,1,1,1,3,1,No,No,Apartment,No,1,Car,5,Up to €15000
+18,Male,Unmarried,Napoli,Lower Secondary School,Student,No,Over 5,No,0 (Ground Floor),No,Left,2,1,1,1,3,1,2,No,Yes,No,Yes,No,Yes,3,4,4,4,4,2,3,4,5,2,Yes,Yes,Villa/Small Villa,No,1,Car,2,
+34,Female,Cohabiting,Pozzuoli,Degree,Employee,No,3,No,1,No,Left,2,4,5,1,1,4,5,Yes,Yes,Yes,Yes,Yes,Yes,1,1,1,1,3,1,1,1,3,3,No,Yes,Apartment,No,2,Car,2,Up to €15000
+84,Male,Widowed,Pozzuoli,Upper Secondary School,Retired,No,1,No,2,Yes,,3,2,2,1,3,1,2,Yes,Yes,No,No,No,Yes,3,3,3,4,4,3,3,2,4,4,No,Yes,Apartment,No,1,Car,3,Between €28000 and €50000
+65,Female,Separated,Napoli,Upper Secondary School,Unemployed,No,1,No,3,Yes,None,4,4,4,4,2,4,5,Yes,No,No,Yes,Yes,Yes,2,3,4,3,4,2,2,2,5,2,No,Yes,Apartment,No,1,Car,1,Up to €15000
+34,Female,Unmarried,Pozzuoli,Postgraduate Degree,Employee,No,3,Yes,1,No,None,4,4,4,5,3,5,4,Yes,No,Yes,No,Yes,Yes,2,2,3,2,3,1,1,1,3,1,Yes,Yes,Apartment,No,1,Car,2,Between €15000 and €28000
+43,Female,Cohabiting,Bacoli,Upper Secondary School,Employee,No,4,No,1,No,,3,4,4,1,2,3,4,Yes,Yes,No,Yes,No,Yes,2,2,2,2,2,3,3,3,3,3,Yes,Yes,Villa/Small Villa,No,2,Car,3,Between €15000 and €28000
+65,Male,Married,Piedimonte Matese,Degree,Employee,No,4,No,2,Yes,,3,3,3,1,3,4,4,Yes,Yes,No,Yes,No,Yes,4,4,3,4,3,3,3,3,4,2,No,Yes,Apartment,No,1,Car,2,
+34,Male,Married,Napoli,Degree,Employee,No,3,No,5,No,,4,4,5,3,4,5,5,Yes,Yes,Yes,Yes,Yes,No,3,3,2,3,4,3,2,2,3,3,Yes,Yes,Apartment,No,2,Car and Motorcycle,3,Between €15000 and €28000
+40,Female,Married,Pozzuoli,Upper Secondary School,Employee,Yes,4,No,3,No,Left,4,3,2,1,1,1,3,No,No,No,No,No,Yes,2,2,1,2,2,3,3,3,3,2,No,No,Apartment,Yes,1,Car,2,Up to €15000
+27,Female,Unmarried,Pozzuoli,Upper Secondary School,Student,No,4,No,2,No,None,3,3,4,2,2,2,4,Yes,Yes,No,No,No,Yes,1,1,1,1,3,1,1,1,3,2,No,No,Apartment,Yes,2,Car,2,Up to €15000
+29,Female,Unmarried,Pozzuoli,Upper Secondary School,Unemployed,No,4,No,1,No,None,4,4,5,3,3,4,5,No,Yes,Yes,No,Yes,Yes,3,3,3,3,3,3,3,3,3,3,No,No,Apartment,No,1,None,2,
+25,Female,Unmarried,Somma Vesuviana,Degree,Student,Yes,5,No,2,No,,2,2,2,2,2,2,2,Yes,Yes,No,Yes,No,No,3,3,3,3,3,3,3,3,3,2,No,Yes,Apartment,No,3,Car and Motorcycle,2,
+22,Female,Unmarried,Pozzuoli,Upper Secondary School,Self-Employed,No,4,No,1,No,None,4,2,2,2,4,2,2,Yes,Yes,Yes,Yes,Yes,No,2,2,1,2,3,1,1,1,3,2,No,Yes,Other,Yes,1,Car,3,Between €15000 and €28000
+29,Female,Cohabiting,Pozzuoli,Upper Secondary School,Employee,No,2,No,3,No,None,4,4,4,2,1,5,5,Yes,Yes,Yes,Yes,Yes,Yes,2,2,2,2,3,1,1,1,3,2,No,No,Apartment,No,2,Car,2,Up to €15000
+34,Male,Unmarried,Pozzuoli,Upper Secondary School,Self-Employed,No,4,Yes,3,No,None,4,4,4,4,4,1,4,No,No,No,No,No,No,3,3,3,3,3,2,2,2,4,2,No,No,Apartment,Yes,1,Car,1,
+50,Female,Cohabiting,Pozzuoli,Degree,Self-Employed,No,4,No,2,No,Center,2,3,4,1,5,4,3,Yes,Yes,Yes,Yes,Yes,No,3,1,3,3,5,4,4,4,5,1,Yes,No,Apartment,No,2,Car,1,Over €50000
+32,Female,Unmarried,Napoli,Postgraduate Degree,Employee,No,3,No,1,No,None,1,1,2,1,1,1,1,Yes,Yes,Yes,Yes,Yes,Yes,4,4,4,3,4,3,3,3,4,1,No,No,Apartment,Yes,0,None,1,Between €15000 and €28000
+31,Female,Unmarried,Pozzuoli,Degree,Employee,No,4,Yes,2,No,,4,5,5,3,4,5,5,Yes,Yes,No,No,No,Yes,5,5,5,3,5,1,1,1,5,2,Yes,Yes,Apartment,No,1,Car,3,Up to €15000
+31,Female,Unmarried,Pozzuoli,Degree,Self-Employed,No,3,No,1,No,,5,5,5,4,3,5,5,Yes,Yes,Yes,No,Yes,Yes,2,2,3,3,4,2,2,3,4,3,No,Yes,Apartment,No,2,Car,3,Between €15000 and €28000
+59,Female,Widowed,Napoli,Postgraduate Degree,Employee,No,3,No,1,Yes,Left,2,2,2,1,3,1,3,Yes,Yes,Yes,No,No,Yes,1,2,4,3,4,2,2,1,3,2,Yes,Yes,Apartment,Yes,1,Car,1,
+24,Female,Unmarried,Benevento,Degree,Student Worker,No,4,No,3,No,Left,2,3,4,2,2,2,4,Yes,Yes,No,Yes,No,Yes,2,2,3,3,3,2,2,1,4,1,No,Yes,Apartment,No,2,Car,3,Up to €15000
+36,Female,Married,Fiumicino,Upper Secondary School,Employee,Yes,3,No,0 (Ground Floor),No,,2,3,4,3,1,3,4,Yes,Yes,No,Yes,No,No,3,2,2,2,2,3,3,3,3,2,No,Yes,Villa/Small Villa,No,3,Car and Motorcycle,3,Up to €15000
+27,Female,Cohabiting,Casoria,Degree,Student Worker,Yes,4,Yes,2,No,Left,1,2,1,1,2,1,4,Yes,Yes,No,Yes,No,No,1,2,2,2,1,2,2,2,4,2,No,Yes,Apartment,Yes,1,Car,4,Up to €15000
+24,Female,Unmarried,Correggio,Degree,Student Worker,Yes,4,No,0 (Ground Floor),No,Left,4,4,4,3,4,3,3,Yes,Yes,No,Yes,No,Yes,4,4,4,4,4,4,4,4,4,4,Yes,Yes,Villa/Small Villa,No,0,None,3,Up to €15000
+24,Female,Unmarried,Pozzuoli,Degree,Student Worker,No,3,No,1,No,None,4,4,5,5,3,5,4,Yes,No,No,No,No,Yes,1,1,1,1,3,1,1,1,3,3,No,Yes,Apartment,No,2,Car,3,
+65,Female,Unmarried,Napoli,Postgraduate Degree,Retired,No,1,No,2,Yes,,4,5,5,4,4,5,5,Yes,Yes,Yes,Yes,Yes,Yes,2,2,3,3,1,1,1,1,4,2,Yes,No,Apartment,Yes,1,Car,3,
+53,Female,Married,Napoli,Postgraduate Degree,Employee,No,4,No,2,Yes,Left,2,2,2,1,3,2,2,Yes,Yes,No,Yes,No,No,3,3,3,3,3,2,2,1,3,2,No,Yes,Apartment,Yes,1,Car,3,
+45,Female,Married,Pozzuoli,Lower Secondary School,Unemployed,No,4,No,5,Yes,Left,4,4,4,3,3,3,4,No,No,No,No,No,Yes,3,3,3,2,4,2,2,2,2,3,No,No,Apartment,Yes,2,Car,5,Between €15000 and €28000
+32,Female,Unmarried,Napoli,Degree,Employee,No,5,No,3,No,None,2,4,4,4,4,2,4,Yes,Yes,No,Yes,No,Yes,3,1,3,1,1,2,1,1,4,1,Yes,No,Apartment,Yes,1,Car,2,
+63,Female,Married,Pozzuoli,Upper Secondary School,Unemployed,No,2,No,0 (Ground Floor),Yes,Left,2,2,2,2,4,4,4,Yes,No,No,No,Yes,Yes,1,1,2,2,4,2,2,1,3,3,Yes,Yes,Villa/Small Villa,No,1,Car,3,Between €15000 and €28000
+45,Male,Unmarried,Pozzuoli,Postgraduate Degree,Self-Employed,No,5,No,1,Yes,Left,2,1,1,1,4,1,2,Yes,Yes,No,Yes,No,Yes,3,2,4,2,3,2,3,2,4,3,Yes,Yes,Villa/Small Villa,No,4,Car,1,Up to €15000
+24,Female,Unmarried,Pozzuoli,Postgraduate Degree,Self-Employed,No,4,No,4,No,Left,4,4,4,3,3,4,5,Yes,Yes,No,Yes,No,Yes,2,2,3,2,4,2,2,2,3,2,Yes,Yes,Apartment,Yes,0,None,2,
+19,Male,Unmarried,Salerno,Upper Secondary School,Student,No,3,No,3,No,Left,1,2,2,2,3,2,2,Yes,Yes,No,Yes,No,Yes,3,3,4,3,4,2,2,3,3,2,No,No,Apartment,No,0,None,3,Up to €15000
+22,Female,Unmarried,Massa Lubrense,Degree,Student,No,4,No,0 (Ground Floor),No,Left,1,1,1,1,1,1,2,Yes,Yes,No,No,No,No,2,2,3,2,2,2,3,2,3,2,No,Yes,Apartment,No,2,Car,2,Between €15000 and €28000
+27,Male,Unmarried,Poggiomarino,Degree,Self-Employed,No,4,No,0 (Ground Floor),No,Right,1,1,2,1,3,1,4,Yes,Yes,Yes,Yes,Yes,Yes,2,3,2,3,3,2,3,2,4,2,No,Yes,Apartment,No,2,Car and Motorcycle,2,Between €28000 and €50000
+25,Female,Cohabiting,Reggio Emilia,Postgraduate Degree,Employee,Yes,2,No,Over 5,No,Left,4,3,4,1,5,2,3,Yes,Yes,No,Yes,No,Yes,1,2,3,3,5,3,1,2,5,1,No,No,Apartment,Yes,0,None,1,Up to €15000
+22,Female,Unmarried,Napoli,Degree,Student,No,4,No,2,No,Left,1,1,1,1,1,1,3,Yes,Yes,No,No,No,No,2,2,4,1,4,2,2,2,4,1,No,Yes,Apartment,Yes,1,Car,2,Between €15000 and €28000
+20,Female,Unmarried,Giugliano,Upper Secondary School,Student,No,5,No,1,No,None,2,2,2,1,3,4,1,Yes,Yes,No,Yes,No,Yes,2,1,4,3,3,2,2,3,5,1,No,Yes,Villa/Small Villa,No,1,Car,3,Up to €15000
+24,Female,Unmarried,Saviano,Upper Secondary School,Student Worker,No,2,No,0 (Ground Floor),No,None,1,2,3,1,1,2,2,Yes,Yes,No,Yes,No,Yes,2,2,2,2,2,2,2,2,2,2,No,No,Apartment,No,1,Car,3,Up to €15000
+21,Female,Unmarried,Napoli,Upper Secondary School,Student,No,4,No,Over 5,No,Left,1,2,3,2,3,3,5,Yes,Yes,No,Yes,Yes,Yes,2,3,3,3,3,2,3,3,4,1,No,Yes,Apartment,No,2,Car,2,Between €15000 and €28000
+22,Female,Unmarried,Marano,Upper Secondary School,Student,No,3,Yes,2,No,,4,4,5,3,4,3,3,Yes,Yes,No,No,No,Yes,2,2,2,2,3,1,1,1,3,1,No,No,Apartment,No,2,Car,4,Up to €15000
+24,Female,Unmarried,Santa Maria La Carità,Degree,Student,No,5,No,0 (Ground Floor),No,Left,1,3,3,1,3,3,5,Yes,Yes,No,Yes,No,No,4,4,4,5,5,5,5,5,5,2,No,Yes,Villa/Small Villa,No,2,Car,3,
+20,Female,Unmarried,Napoli,Upper Secondary School,Student,Yes,4,No,1,No,,4,4,4,3,2,3,3,No,Yes,No,Yes,Yes,Yes,3,3,3,3,4,2,2,1,3,3,No,Yes,Apartment,No,1,Car,3,Up to €15000
+23,Male,Unmarried,Cercola,Upper Secondary School,Student,Yes,2,No,0 (Ground Floor),No,Left,1,1,1,1,1,1,1,Yes,Yes,No,Yes,No,Yes,2,2,1,1,2,2,3,3,4,3,No,Yes,Apartment,No,2,Car and Motorcycle,2,Between €15000 and €28000
+20,Female,Unmarried,Napoli,Upper Secondary School,Student Worker,No,5,No,3,No,Left,3,3,4,3,2,4,4,Yes,Yes,No,Yes,No,No,3,3,3,3,4,2,3,3,4,2,Yes,Yes,Apartment,Yes,2,Car,2,Up to €15000
+19,Female,Unmarried,Napoli,Upper Secondary School,Student,No,4,No,3,No,,1,2,2,1,3,1,3,Yes,Yes,No,Yes,No,No,3,3,2,3,3,2,2,2,4,3,No,Yes,Apartment,No,2,Car,2,Up to €15000
+25,Female,Married,Marano,Degree,Student,No,2,No,2,No,None,4,5,5,4,2,3,5,Yes,Yes,No,Yes,Yes,No,1,1,3,1,5,2,2,2,2,2,Yes,Yes,Apartment,No,1,Car,2,
+22,Female,Unmarried,Napoli,Upper Secondary School,Student,No,4,No,2,No,None,3,3,4,3,2,2,4,Yes,Yes,Yes,Yes,Yes,Yes,3,3,2,3,3,3,4,4,4,2,Yes,Yes,Apartment,No,2,Car,3,Up to €15000
+24,Female,Unmarried,Aversa,Degree,Student,No,4,No,4,No,,1,3,3,1,3,1,4,Yes,Yes,No,Yes,No,No,3,2,3,3,4,2,3,2,4,2,Yes,Yes,Apartment,Yes,1,Car,1,Between €15000 and €28000
+21,Female,Unmarried,Napoli,Upper Secondary School,Student,No,4,No,3,No,Left,3,3,3,1,1,1,2,No,Yes,No,Yes,No,Yes,2,2,3,2,3,1,1,1,4,1,No,No,Apartment,Yes,0,None,1,Between €15000 and €28000
+21,Female,Unmarried,Pozzuoli,Upper Secondary School,Student,No,5,No,2,No,None,5,5,4,3,2,4,5,Yes,Yes,No,Yes,Yes,Yes,2,3,4,2,4,1,1,1,4,1,Yes,Yes,Apartment,Yes,2,Car,3,Up to €15000
+23,Female,Unmarried,Napoli,Degree,Student,No,Over 5,No,5,No,,2,3,3,2,4,1,3,No,Yes,No,No,No,Yes,3,3,3,3,3,3,3,3,3,2,No,No,Apartment,No,2,Car,3,Up to €15000
+90,Female,Widowed,Pozzuoli,Elementary School,Retired,No,1,No,3,Yes,,3,3,4,2,4,2,2,Yes,No,No,No,No,Yes,2,5,1,3,1,3,3,3,4,1,No,No,Apartment,Yes,0,None,2,Up to €15000
+21,Female,Unmarried,Napoli,Upper Secondary School,Student,No,5,No,1,No,,3,4,4,2,3,4,4,Yes,No,No,No,No,No,3,3,3,3,3,3,3,3,3,2,No,Yes,Apartment,No,3,Car and Motorcycle,2,Between €15000 and €28000
+19,Female,Unmarried,Napoli,Upper Secondary School,Student,No,5,No,5,No,Left,2,4,5,3,5,3,5,No,Yes,Yes,Yes,Yes,No,3,3,3,3,3,3,3,3,3,3,No,Yes,Apartment,Yes,0,None,4,Up to €15000
+20,Female,Unmarried,Napoli,Upper Secondary School,Student,No,3,No,1,No,Right,2,3,3,1,1,1,3,Yes,Yes,No,Yes,No,No,1,3,5,4,4,2,2,2,3,1,No,Yes,Apartment,Yes,0,None,5,Up to €15000
+19,Female,Unmarried,Senise,Upper Secondary School,Student,No,5,No,3,No,Left,2,2,2,1,3,1,3,Yes,Yes,No,Yes,No,Yes,3,3,4,3,3,3,3,2,4,3,No,No,Apartment,No,0,None,2,Up to €15000
+19,Female,Unmarried,Napoli,Upper Secondary School,Student,No,Over 5,No,5,No,Left,1,3,2,1,2,1,1,Yes,Yes,No,Yes,No,No,3,4,2,2,1,2,2,3,4,3,No,No,Apartment,Yes,1,Car,3,Between €28000 and €50000
+24,Female,Unmarried,Afragola,Degree,Student Worker,No,4,Yes,2,No,,2,2,3,1,1,3,4,Yes,Yes,Yes,Yes,Yes,No,2,3,4,2,1,2,2,2,3,1,No,Yes,Apartment,No,0,None,3,
+20,Male,Unmarried,Pompei,Upper Secondary School,Student,No,3,No,2,No,Center,2,3,3,1,3,3,4,Yes,Yes,No,Yes,No,Yes,3,3,4,3,4,3,4,3,5,2,No,Yes,Apartment,Yes,1,Car,2,
+23,Female,Unmarried,Quarto,Upper Secondary School,Student,No,4,No,3,No,None,3,4,4,3,5,4,5,Yes,Yes,No,Yes,Yes,Yes,1,2,2,2,4,3,3,3,5,3,Yes,Yes,Apartment,No,3,Car and Motorcycle,3,Between €15000 and €28000
+21,Female,Unmarried,Napoli,Upper Secondary School,Student,No,5,No,Over 5,No,None,3,4,4,2,3,3,4,No,No,No,No,Yes,Yes,3,3,4,4,5,3,3,3,4,2,Yes,Yes,Apartment,Yes,2,Car,2,
+19,Male,Unmarried,Casalnuovo,Upper Secondary School,Student,No,5,Yes,1,No,,1,1,2,1,3,1,3,No,Yes,No,Yes,No,No,4,3,3,3,3,2,3,3,3,2,No,No,Apartment,Yes,2,Car,3,Between €15000 and €28000
+26,Female,Unmarried,Qualiano,Degree,Student,No,5,No,2,No,Left,3,2,3,2,2,1,3,Yes,Yes,No,No,No,Yes,2,2,3,2,3,1,2,2,4,2,No,Yes,Apartment,No,2,Car,3,Up to €15000
+25,Female,Unmarried,Napoli,Degree,Student,No,4,No,2,No,Left,2,3,4,3,1,1,5,Yes,No,No,Yes,Yes,Yes,3,4,4,2,2,1,1,1,1,1,No,Yes,Apartment,No,2,Car,2,Between €15000 and €28000
+28,Male,Unmarried,Pozzuoli,Postgraduate Degree,Self-Employed,No,3,No,0 (Ground Floor),No,,4,3,2,3,3,4,4,No,Yes,No,Yes,Yes,Yes,2,2,3,2,1,3,2,1,3,1,Yes,Yes,Villa/Small Villa,No,2,Car,3,Between €15000 and €28000
+20,Female,Unmarried,Casandrino,Upper Secondary School,Student,No,4,No,1,No,Left,1,3,3,2,2,3,4,Yes,Yes,No,Yes,No,Yes,4,4,5,3,4,2,3,3,4,2,No,Yes,Apartment,No,0,None,1,Up to €15000
+18,Female,Unmarried,Napoli,Upper Secondary School,Student,No,3,No,2,No,,1,4,4,3,3,3,4,No,No,No,No,No,No,5,5,5,5,5,2,2,2,2,2,No,Yes,Apartment,Yes,2,Car,2,Up to €15000
+22,Female,Unmarried,Quarto,Upper Secondary School,Student,No,4,No,0 (Ground Floor),No,Left,3,3,4,1,2,1,3,Yes,Yes,No,Yes,No,Yes,1,1,1,1,2,2,2,1,3,1,Yes,Yes,Other,No,2,Car,2,
+39,Female,Unmarried,Casoria,Degree,Student,No,2,No,1,No,,1,1,3,1,4,1,1,Yes,Yes,No,Yes,No,Yes,2,2,3,4,5,3,5,3,4,2,Yes,Yes,Apartment,Yes,0,None,3,Up to €15000
+19,Female,Unmarried,Napoli,Upper Secondary School,Student,No,2,No,1,No,Left,1,3,3,1,1,2,4,No,Yes,Yes,Yes,Yes,Yes,2,2,4,3,3,3,3,3,3,2,No,No,Apartment,No,1,Car,4,Up to €15000
+19,Female,Unmarried,Morcone,Upper Secondary School,Student,No,4,No,0 (Ground Floor),No,Left,3,4,4,2,3,3,4,Yes,Yes,No,Yes,No,No,4,4,4,4,4,3,4,4,4,2,Yes,Yes,Villa/Small Villa,No,4,Car,2,Up to €15000
+28,Female,Unmarried,Castellammare Di Stabia,Degree,Unemployed,No,5,No,2,No,Left,1,5,5,3,1,1,4,Yes,Yes,No,Yes,No,Yes,1,1,1,1,1,1,2,1,3,1,No,Yes,Apartment,No,0,None,5,Up to €15000
+23,Female,Unmarried,Napoli,Upper Secondary School,Student,No,4,No,3,No,,4,4,4,3,3,4,5,Yes,Yes,Yes,No,Yes,Yes,2,3,3,3,4,2,2,1,2,2,No,Yes,Apartment,Yes,1,Car,3,
+40,Female,Married,Napoli,Lower Secondary School,Unemployed,No,4,No,2,No,,3,5,5,3,2,5,5,No,Yes,Yes,Yes,Yes,Yes,1,1,1,1,1,1,1,1,3,1,No,Yes,Apartment,No,1,Car,5,
+30,Female,Unmarried,Pozzuoli,Degree,Employee,No,4,No,2,No,None,3,4,4,1,5,5,4,Yes,Yes,No,Yes,No,Yes,1,1,1,1,3,1,1,1,3,2,Yes,Yes,Apartment,No,2,Car,3,Up to €15000
+21,Male,Unmarried,Napoli,Upper Secondary School,Student Worker,No,5,No,0 (Ground Floor),No,,3,2,3,1,3,1,4,Yes,Yes,Yes,Yes,Yes,Yes,2,2,5,2,3,1,3,3,4,2,Yes,Yes,Villa/Small Villa,No,1,Car and Motorcycle,4,Up to €15000
+30,Female,Unmarried,Quarto,Degree,Self-Employed,No,4,No,3,No,,3,4,3,3,1,2,3,Yes,No,No,Yes,Yes,Yes,1,1,1,1,2,1,1,1,2,3,Yes,Yes,Apartment,No,0,None,4,
+45,Female,Married,Casalnuovo,Degree,Employee,No,5,No,5,Yes,Right,5,5,5,4,3,2,4,Yes,Yes,Yes,Yes,No,Yes,2,2,4,2,4,1,1,1,4,3,Yes,Yes,Apartment,Yes,2,Car,3,Up to €15000
+21,Female,Unmarried,Napoli,Degree,Student,No,4,No,Over 5,No,Left,1,1,1,1,1,1,1,Yes,Yes,No,Yes,No,Yes,3,3,3,4,5,1,3,1,5,3,Yes,Yes,Apartment,Yes,3,Car and Motorcycle,3,Between €28000 and €50000
+19,Female,Unmarried,Scafati,Upper Secondary School,Student,No,4,No,1,No,,1,3,3,1,4,3,4,Yes,Yes,No,No,No,Yes,2,4,5,2,4,3,2,2,4,2,Yes,Yes,Apartment,No,3,Car,2,Between €28000 and €50000
+50,Female,Widowed,Napoli,Upper Secondary School,Employee,No,3,No,1,Yes,,4,4,5,3,3,5,5,Yes,No,No,No,Yes,Yes,1,1,2,1,2,1,1,1,2,1,No,Yes,Apartment,Yes,1,Car,3,
+83,Male,Married,Napoli,Degree,Self-Employed,No,2,No,Over 5,Yes,Left,3,2,1,1,1,1,1,Yes,Yes,No,No,No,Yes,2,1,1,2,1,2,2,3,3,2,Yes,Yes,Apartment,Yes,2,Car and Motorcycle,2,Between €28000 and €50000
+66,Female,Divorced,Quarto,Degree,Retired,No,1,No,4,Yes,Left,3,4,4,3,4,4,4,Yes,No,No,No,No,Yes,3,3,4,3,5,1,2,3,4,4,Yes,Yes,Apartment,Yes,1,Car and Motorcycle,3,Between €28000 and €50000
+38,Female,Married,Napoli,Upper Secondary School,Self-Employed,No,4,No,2,No,None,2,3,3,2,1,2,4,Yes,Yes,No,No,No,Yes,3,2,2,2,1,1,2,1,3,3,No,No,Apartment,No,2,Car,3,Up to €15000
+57,Female,Married,Quarto,Upper Secondary School,Unemployed,No,3,Yes,1,Yes,Left,3,3,3,3,2,1,3,Yes,No,No,No,No,Yes,3,2,3,2,3,2,3,1,4,1,Yes,No,Apartment,No,1,Car,4,Up to €15000
+68,Male,Married,Napoli,Postgraduate Degree,Self-Employed,No,Over 5,No,3,Yes,None,4,4,2,1,4,1,2,Yes,Yes,No,Yes,Yes,Yes,3,3,3,1,4,1,1,1,2,1,Yes,Yes,Apartment,Yes,2,Car,3,Over €50000
+63,Female,Cohabiting,Napoli,Degree,Employee,No,2,No,1,Yes,,3,3,3,4,3,4,4,Yes,No,No,No,No,No,3,3,3,3,3,3,3,3,3,2,No,Yes,Apartment,Yes,2,Car,3,
+46,Female,Cohabiting,Napoli,Degree,Employee,No,4,No,2,Yes,Left,3,3,3,3,3,2,3,Yes,Yes,No,No,No,No,3,2,1,3,3,2,3,2,4,1,No,Yes,Apartment,Yes,3,Car,2,Between €28000 and €50000
+62,Female,Married,Somma Vesuviana,Degree,Employee,No,Over 5,No,3,Yes,Left,4,4,5,1,3,1,5,Yes,No,No,Yes,Yes,Yes,1,1,1,1,1,1,1,1,3,1,Yes,Yes,Apartment,Yes,1,Car,4,Between €28000 and €50000
+63,,Married,Saviano,Degree,Employee,No,2,No,1,Yes,Right,1,3,2,2,4,3,2,Yes,No,No,Yes,No,No,3,3,3,3,3,2,1,3,5,1,Yes,Yes,Villa/Small Villa,No,2,Car,2,
+59,Female,Unmarried,Napoli,Postgraduate Degree,Employee,No,1,No,2,Yes,Left,3,5,4,2,4,3,5,Yes,Yes,No,Yes,No,Yes,4,3,3,3,3,2,3,2,5,1,Yes,Yes,Apartment,No,1,Car,3,Between €15000 and €28000
+51,Female,Married,Napoli,Postgraduate Degree,Employee,Yes,4,No,0 (Ground Floor),Yes,,1,2,2,1,1,1,1,Yes,Yes,No,Yes,No,Yes,5,1,1,1,4,3,3,3,5,4,Yes,Yes,Villa/Small Villa,No,5,Car and Motorcycle,2,
+44,Female,Married,Napoli,Upper Secondary School,Employee,No,5,Yes,0 (Ground Floor),Yes,None,2,3,2,2,2,2,3,Yes,Yes,No,Yes,No,Yes,3,3,3,3,3,1,1,1,3,1,Yes,Yes,Villa/Small Villa,No,1,Car,2,Between €15000 and €28000
+43,Female,Married,Napoli,Upper Secondary School,Unemployed,No,4,No,2,No,,2,1,2,4,4,3,2,Yes,No,No,No,No,No,3,3,4,3,3,1,1,1,3,1,Yes,No,Apartment,No,1,Car,5,Up to €15000
+61,Female,Married,Somma Vesuviana,Degree,Employee,No,5,No,1,Yes,Left,4,4,4,2,3,5,4,Yes,Yes,Yes,Yes,Yes,Yes,3,3,4,3,2,2,3,3,4,2,No,Yes,Villa/Small Villa,No,2,Car and Motorcycle,3,
+54,Female,Separated,Pozzuoli,Postgraduate Degree,Employee,No,3,No,1,No,None,3,3,3,2,3,3,4,Yes,Yes,Yes,Yes,Yes,Yes,3,2,4,2,4,2,2,2,4,3,Yes,Yes,Villa/Small Villa,No,2,Car,2,Between €28000 and €50000
+43,Female,Married,Napoli,Upper Secondary School,Employee,No,4,No,1,Yes,,4,3,3,3,4,4,4,Yes,Yes,Yes,Yes,Yes,Yes,3,1,4,3,3,2,2,2,3,1,No,Yes,Apartment,No,2,Car and Motorcycle,3,
+51,Female,Unmarried,Pozzuoli,Postgraduate Degree,Self-Employed,No,2,No,4,Yes,Right,2,2,2,2,4,3,3,Yes,No,No,No,No,Yes,1,1,3,2,2,1,2,2,3,1,Yes,Yes,Apartment,Yes,2,Car and Motorcycle,1,Between €28000 and €50000
+64,Female,Unmarried,Napoli,Degree,Employee,No,2,No,Over 5,Yes,,3,4,4,2,2,2,5,Yes,Yes,Yes,Yes,Yes,Yes,3,2,3,2,3,2,1,1,2,1,Yes,Yes,Apartment,Yes,1,Car,3,Between €15000 and €28000
+41,Female,Unmarried,Napoli,Degree,Employee,No,3,No,3,No,,4,5,5,4,4,5,4,Yes,Yes,Yes,Yes,Yes,Yes,4,3,3,3,4,3,3,3,4,2,Yes,Yes,Apartment,Yes,0,None,3,
+45,Female,Married,Scafati,Upper Secondary School,Self-Employed,No,5,No,0 (Ground Floor),Yes,None,1,3,3,1,5,3,5,Yes,No,No,No,No,No,3,3,5,3,3,2,2,2,3,1,Yes,Yes,Villa/Small Villa,No,1,Car,3,Up to €15000
+56,Female,Married,Napoli,Upper Secondary School,Unemployed,No,4,No,1,Yes,,4,5,5,2,4,5,5,Yes,No,Yes,Yes,Yes,Yes,2,3,3,3,3,3,3,2,3,2,No,Yes,Apartment,Yes,2,Car,4,
+70,Female,Married,Pozzuoli,Upper Secondary School,Retired,No,2,No,2,Yes,Left,3,4,4,4,3,4,4,Yes,No,Yes,No,Yes,Yes,1,1,3,2,4,2,2,2,3,2,Yes,Yes,Apartment,No,2,Car,3,
+47,Female,Cohabiting,Bacoli,Upper Secondary School,Employee,No,5,No,0 (Ground Floor),Yes,None,1,1,1,1,1,1,2,Yes,No,No,No,No,Yes,2,4,3,3,3,3,3,3,3,2,No,Yes,Apartment,No,2,Car,3,
+45,Female,Married,Napoli,Degree,Employee,No,2,No,1,Yes,Left,4,4,4,2,2,3,4,Yes,Yes,No,Yes,Yes,Yes,1,3,1,1,4,1,1,1,3,2,Yes,No,Apartment,Yes,1,Car,1,Between €28000 and €50000
+56,Male,Married,Quarto,Upper Secondary School,Employee,No,2,No,3,Yes,Left,3,3,2,1,2,1,3,Yes,Yes,No,No,No,Yes,1,1,3,1,3,1,1,2,4,2,Yes,Yes,Apartment,Yes,2,Car,3,Between €28000 and €50000
+28,Female,Unmarried,Napoli,Degree,Student,No,4,No,1,No,,3,4,5,3,2,5,5,Yes,Yes,Yes,Yes,Yes,Yes,1,1,3,3,4,1,1,2,4,2,Yes,Yes,Apartment,No,2,Car,2,
+61,Male,Married,Napoli,Degree,Employee,No,4,No,2,Yes,,3,2,2,1,2,1,3,Yes,Yes,No,Yes,No,Yes,2,2,4,3,4,3,3,2,4,2,Yes,Yes,Apartment,Yes,2,Car,2,
+19,Female,Unmarried,Sparanise,Upper Secondary School,Student,No,3,No,4,No,,2,1,1,1,2,1,4,Yes,Yes,No,Yes,No,No,2,2,2,2,2,2,2,2,3,1,No,Yes,Apartment,Yes,0,None,3,
+51,Male,Married,Quarto,Degree,Self-Employed,No,4,No,1,Yes,,1,2,2,1,3,3,5,Yes,Yes,No,Yes,No,Yes,4,4,3,3,3,4,4,3,4,3,No,Yes,Villa/Small Villa,No,3,Car and Motorcycle,1,
+37,Female,Divorced,Pozzuoli,Degree,Self-Employed,No,4,No,1,No,Left,2,3,3,1,2,5,5,Yes,Yes,Yes,Yes,Yes,Yes,1,3,5,3,5,2,3,3,4,2,Yes,Yes,Villa/Small Villa,No,1,Car,1,
+27,Male,Unmarried,Somma Vesuviana,Degree,Student,No,Over 5,No,3,No,None,1,1,1,1,3,1,3,Yes,Yes,No,Yes,No,Yes,3,3,4,3,4,2,2,1,4,2,No,Yes,Apartment,Yes,0,None,3,Up to €15000
+32,Female,Cohabiting,Siracusa,Degree,Self-Employed,Yes,2,No,2,No,Left,3,2,2,2,3,3,1,No,Yes,No,Yes,No,Yes,2,2,3,2,3,3,3,3,4,2,No,Yes,Villa/Small Villa,No,2,Car and Motorcycle,2,Between €28000 and €50000
+25,Female,Unmarried,Albenga,Degree,Student Worker,Yes,4,No,3,No,,2,2,2,1,2,1,2,Yes,No,No,Yes,No,No,1,2,2,2,2,2,2,3,3,3,No,No,Apartment,Yes,0,None,3,Up to €15000
+51,Female,Separated,Somma Vesuviana,Postgraduate Degree,Self-Employed,No,2,No,2,Yes,Center,3,3,3,2,2,3,3,Yes,Yes,Yes,Yes,Yes,Yes,2,2,2,2,2,1,1,1,2,1,No,Yes,Apartment,No,1,Car,2,Between €15000 and €28000
+31,Male,Unmarried,Pozzuoli,Upper Secondary School,Self-Employed,No,5,Yes,0 (Ground Floor),No,,2,4,3,1,3,2,2,Yes,No,No,No,No,Yes,3,2,3,2,4,2,2,2,4,3,No,No,Apartment,No,2,Car and Motorcycle,3,Up to €15000
+34,Male,Cohabiting,Roma,Degree,Employee,Yes,1,No,2,No,Left,3,2,4,4,4,2,3,Yes,Yes,Yes,Yes,Yes,Yes,5,5,3,1,5,4,4,4,5,1,Yes,Yes,Apartment,No,1,Car,1,Between €15000 and €28000
+30,Female,Unmarried,Napoli,Degree,Self-Employed,Yes,4,No,2,No,,2,3,3,2,3,3,3,Yes,Yes,No,Yes,No,Yes,2,2,2,3,3,2,2,2,3,1,No,No,Apartment,Yes,0,None,1,
+38,Female,Unmarried,Napoli,Upper Secondary School,Unemployed,No,3,No,2,No,,4,5,5,4,4,4,4,Yes,Yes,No,No,No,No,2,2,4,3,4,2,1,2,3,1,No,Yes,Apartment,No,1,Car,3,
+39,Male,Unmarried,Qualiano,Upper Secondary School,Unemployed,No,3,No,1,No,Left,2,3,3,1,4,4,4,Yes,No,No,Yes,Yes,No,1,1,5,1,4,1,2,2,3,1,Yes,Yes,Apartment,No,2,Car,3,
+26,Female,Unmarried,Napoli,Upper Secondary School,Student,No,3,No,5,No,,4,4,4,3,2,4,5,Yes,Yes,No,No,No,Yes,2,2,1,2,4,2,2,1,4,1,Yes,Yes,Apartment,Yes,1,Car,2,
+61,Female,Married,Qualiano,Upper Secondary School,Unemployed,No,3,No,1,Yes,Left,3,2,2,1,1,1,3,No,Yes,Yes,Yes,No,No,3,3,3,3,3,2,2,2,3,3,No,Yes,Apartment,No,2,Car,1,Up to €15000
+40,Female,Married,Qualiano,Lower Secondary School,Unemployed,No,4,No,0 (Ground Floor),No,None,3,3,4,3,3,2,3,No,No,No,Yes,No,No,3,4,1,2,2,1,1,1,3,1,No,No,Apartment,No,0,None,1,
+42,Female,Married,Giugliano,Degree,Employee,No,2,No,0 (Ground Floor),No,,1,3,3,2,1,2,3,Yes,No,No,No,No,No,2,3,4,3,3,2,2,2,3,1,No,Yes,Villa/Small Villa,No,2,Car,3,
+38,Female,Unmarried,Bacoli,Degree,Unemployed,No,4,Yes,1,No,Left,2,2,3,1,1,1,3,Yes,Yes,No,Yes,No,No,3,3,3,3,1,1,2,2,3,2,Yes,Yes,Villa/Small Villa,No,0,None,2,Up to €15000
+48,Male,Married,Pozzuoli,Upper Secondary School,Self-Employed,No,4,No,1,Yes,,3,1,1,1,2,1,2,Yes,Yes,Yes,Yes,Yes,Yes,1,1,1,1,3,3,3,3,4,3,Yes,Yes,Apartment,No,1,Car,3,
+52,Female,Married,Ercolano,Degree,Self-Employed,No,4,No,2,Yes,Right,3,3,4,3,2,3,5,Yes,Yes,Yes,Yes,Yes,Yes,2,1,2,2,3,1,1,1,2,2,No,Yes,Villa/Small Villa,No,2,Car and Motorcycle,2,
+25,Female,Cohabiting,Pozzuoli,Upper Secondary School,Student,No,1,No,3,No,None,4,4,5,3,2,4,5,Yes,Yes,Yes,Yes,Yes,Yes,3,2,3,2,3,1,1,1,2,1,No,Yes,Apartment,No,1,Car,4,
+60,Male,Married,Giugliano,Degree,Employee,No,4,No,3,Yes,Center,2,3,3,1,2,1,4,Yes,Yes,No,Yes,No,No,4,4,2,3,2,1,2,2,3,2,Yes,No,Apartment,No,3,Car,2,Over €50000
+34,Female,Married,Qualiano,Lower Secondary School,Unemployed,No,5,No,0 (Ground Floor),No,,3,4,5,4,3,4,5,Yes,Yes,No,Yes,Yes,Yes,3,2,4,4,1,4,4,4,5,1,Yes,No,Villa/Small Villa,No,1,Car,3,
+35,Male,Unmarried,Bacoli,Degree,Employee,No,4,No,1,No,,3,3,3,1,2,2,3,Yes,Yes,No,Yes,No,Yes,3,3,3,3,3,3,2,2,4,3,Yes,Yes,Villa/Small Villa,No,2,Car and Motorcycle,2,
+22,Male,Unmarried,Napoli,Degree,Student,No,4,No,3,No,,2,4,3,1,3,1,1,Yes,Yes,No,No,No,No,5,5,5,5,5,5,5,5,5,5,No,Yes,Other,Yes,1,Car,1,
+48,Female,Married,Villaricca,Lower Secondary School,Unemployed,No,4,No,3,Yes,Right,4,5,5,4,3,5,5,Yes,Yes,Yes,Yes,Yes,Yes,3,3,3,3,3,2,2,2,3,2,No,Yes,Other,No,1,Car,2,
+25,Female,Unmarried,Napoli,Degree,Employee,Yes,5,No,3,No,Left,2,4,4,1,3,1,4,Yes,Yes,No,Yes,No,No,3,3,4,3,4,4,4,4,4,4,No,Yes,Apartment,Yes,3,Car and Motorcycle,2,Between €28000 and €50000
+42,Female,Married,Qualiano,Lower Secondary School,Unemployed,No,5,No,1,No,Right,2,4,5,3,4,5,5,No,No,No,No,No,No,4,4,5,4,3,4,4,4,5,5,No,No,Apartment,No,1,Car,1,
+40,Female,Married,Qualiano,Lower Secondary School,Employee,No,4,No,2,No,,3,4,4,4,2,1,3,No,No,No,No,No,No,2,1,3,2,3,1,1,1,4,1,No,No,Apartment,No,0,None,1,Up to €15000
+29,Female,Unmarried,Napoli,Degree,Employee,No,4,No,2,No,Center,3,4,4,3,4,5,5,Yes,Yes,Yes,No,Yes,Yes,2,2,2,2,1,1,1,1,3,1,No,Yes,Apartment,No,3,Car,1,Between €15000 and €28000
+59,Female,Married,Giugliano,Upper Secondary School,Unemployed,No,1,No,1,Yes,,3,1,1,2,4,1,2,No,No,No,No,Yes,Yes,1,1,1,2,2,1,1,1,4,3,Yes,Yes,Apartment,No,2,Car,1,
+39,Female,Married,Qualiano,Lower Secondary School,Unemployed,No,5,No,1,No,,1,1,1,1,1,1,3,No,No,No,No,No,No,3,4,4,4,4,3,3,3,4,3,No,No,Apartment,No,0,None,5,
+28,Female,Unmarried,Andretta,Lower Secondary School,Unemployed,No,5,No,2,No,,1,3,5,3,3,3,4,No,Yes,Yes,Yes,Yes,Yes,4,4,5,4,4,3,3,3,4,3,Yes,No,Apartment,No,1,Car,4,Up to €15000
+23,Female,Unmarried,Qualiano,Degree,Student Worker,No,3,No,1,No,None,3,2,2,2,2,2,2,Yes,Yes,No,Yes,No,Yes,2,3,2,2,4,2,3,2,4,3,Yes,No,Apartment,No,1,Car,4,Up to €15000
+47,Female,Married,Qualiano,Elementary School,Unemployed,No,Over 5,No,1,Yes,Left,3,4,4,3,3,4,4,No,No,No,No,No,No,4,4,4,4,4,2,2,2,3,2,Yes,No,Apartment,No,1,Car,3,Up to €15000
+24,Female,Unmarried,Pozzuoli,Upper Secondary School,Employee,No,3,No,0 (Ground Floor),No,None,1,2,1,1,1,1,3,Yes,No,No,No,No,No,2,2,1,2,1,1,1,1,3,2,No,Yes,Apartment,No,3,Car and Motorcycle,3,
+48,Female,Married,Pozzuoli,Upper Secondary School,Unemployed,No,4,No,3,Yes,None,3,3,2,1,3,3,3,Yes,No,No,No,No,Yes,3,2,3,3,3,2,2,2,3,3,Yes,Yes,Apartment,No,3,Car and Motorcycle,3,
+45,Female,Cohabiting,Napoli,Upper Secondary School,Unemployed,No,3,No,1,Yes,None,1,3,3,1,5,2,2,Yes,Yes,No,Yes,No,No,3,4,2,3,3,1,1,1,3,1,No,No,Apartment,Yes,2,Car,4,
+39,Female,Married,Pozzuoli,Upper Secondary School,Employee,No,3,No,1,No,,5,4,5,4,3,5,5,Yes,No,Yes,No,Yes,Yes,1,1,1,1,5,1,1,1,3,1,No,Yes,Apartment,No,1,Car,3,Between €15000 and €28000
+29,Female,Unmarried,Pozzuoli,Degree,Student,No,Over 5,No,0 (Ground Floor),No,None,4,5,5,4,3,3,5,Yes,Yes,Yes,Yes,Yes,Yes,2,3,3,3,4,1,2,2,5,2,Yes,Yes,Villa/Small Villa,No,1,Car,1,Between €28000 and €50000
+29,Female,Cohabiting,Pozzuoli,Degree,Employee,No,2,No,0 (Ground Floor),No,Left,3,2,3,3,2,3,3,Yes,Yes,No,Yes,Yes,Yes,2,1,3,3,4,3,3,3,4,1,Yes,No,Apartment,No,1,Car,3,Between €15000 and €28000
+56,Female,Married,Milano,Upper Secondary School,Employee,Yes,3,No,2,Yes,,3,4,4,3,3,4,4,Yes,Yes,Yes,Yes,Yes,No,3,3,3,3,3,2,2,2,3,2,Yes,Yes,Apartment,No,3,Car,3,Between €15000 and €28000
+,Female,Unmarried,Pozzuoli,Lower Secondary School,Student,No,3,No,0 (Ground Floor),No,None,3,4,4,2,3,1,4,Yes,Yes,Yes,Yes,Yes,No,2,2,3,2,3,3,2,2,3,2,No,No,Apartment,No,1,Car,2,Up to €15000
+23,Female,Unmarried,Milano,Elementary School,Student,Yes,2,Yes,3,Yes,Center,1,1,2,2,2,3,1,No,No,Yes,Yes,Yes,Yes,1,2,3,3,1,2,3,2,1,2,Yes,Yes,Apartment,Yes,3,Car,3,Up to €15000
+26,Female,Unmarried,Napoli,Degree,Employee,No,4,No,2,No,None,3,2,2,1,2,2,3,Yes,Yes,No,Yes,No,Yes,2,2,2,3,3,2,2,2,3,2,Yes,Yes,Apartment,No,3,Car,2,
+44,Female,Cohabiting,Napoli,Lower Secondary School,Unemployed,No,5,No,0 (Ground Floor),Yes,Right,3,4,4,5,5,5,5,No,Yes,Yes,Yes,Yes,Yes,5,5,5,5,5,3,3,2,3,5,No,Yes,Villa/Small Villa,No,1,Car,5,
+29,Female,Cohabiting,Milano,Upper Secondary School,Student Worker,Yes,5,No,5,No,Center,1,2,2,1,2,1,1,Yes,No,No,Yes,No,No,4,5,4,5,5,3,3,3,5,2,No,No,Apartment,Yes,0,None,3,Between €15000 and €28000
+30,Female,Married,Pomigliano D’Arco,Postgraduate Degree,Employee,No,2,No,2,No,None,3,3,3,2,2,2,3,Yes,Yes,No,No,No,No,2,3,2,3,2,3,3,3,4,1,No,Yes,Apartment,No,1,Car,4,Between €28000 and €50000
+24,Female,Unmarried,Ravenna,Degree,Student Worker,Yes,4,No,2,No,Left,3,4,4,1,3,4,4,Yes,Yes,No,Yes,No,No,3,3,1,3,3,4,4,2,5,3,No,Yes,Villa/Small Villa,No,1,Car,1,Between €15000 and €28000
+32,Male,Cohabiting,Melito,Degree,Employee,No,2,No,2,No,,2,3,3,1,4,3,2,Yes,Yes,No,Yes,No,No,1,1,1,1,1,2,3,3,4,1,Yes,No,Apartment,No,1,Car,2,
+49,Male,Married,Pozzuoli,Postgraduate Degree,Self-Employed,No,5,No,3,No,Left,3,2,2,1,3,3,2,Yes,Yes,No,Yes,No,Yes,1,1,1,1,3,3,4,2,4,3,No,Yes,Apartment,No,2,Car,1,Between €28000 and €50000
+52,Female,Married,Pozzuoli,Degree,Employee,No,4,No,2,Yes,,4,3,3,2,4,2,3,Yes,No,No,No,No,Yes,1,1,3,2,4,1,1,1,4,1,No,Yes,Apartment,Yes,1,Car,3,Between €28000 and €50000
+54,Female,Separated,Pozzuoli,Upper Secondary School,Unemployed,No,1,No,1,Yes,None,4,5,5,4,4,5,5,No,Yes,Yes,Yes,Yes,No,3,3,3,5,5,1,1,1,5,1,Yes,No,Villa/Small Villa,No,0,None,1,
+60,Male,Married,Napoli,Upper Secondary School,Employee,No,3,No,1,Yes,Left,3,3,4,1,3,3,4,Yes,No,No,No,No,Yes,2,2,3,3,4,2,2,1,3,2,Yes,No,Apartment,No,1,Car,4,Between €15000 and €28000
+46,Female,Divorced,Pozzuoli,Upper Secondary School,Unemployed,No,2,No,1,Yes,,3,3,4,1,4,5,3,No,No,No,No,No,Yes,3,4,2,4,5,1,2,2,2,3,Yes,No,Apartment,No,1,Car,3,
+62,Female,Married,Napoli,Degree,Employee,No,2,Yes,1,Yes,Left,3,3,3,1,1,4,4,Yes,No,No,No,Yes,Yes,1,2,3,3,3,2,2,1,3,2,No,Yes,Apartment,Yes,1,Car,3,
+52,Female,Unmarried,Napoli,Degree,Employee,No,1,No,1,No,None,3,3,4,2,3,4,4,Yes,No,No,No,Yes,Yes,3,3,2,3,3,2,2,2,3,2,Yes,Yes,Apartment,Yes,2,Car and Motorcycle,3,Between €15000 and €28000
+34,Male,Married,Pozzuoli,Degree,Employee,No,2,No,1,No,Center,4,3,4,1,3,3,4,Yes,Yes,No,Yes,Yes,Yes,1,2,4,1,3,1,1,3,4,3,Yes,No,Apartment,No,2,Car and Motorcycle,2,Between €15000 and €28000
+59,Female,Cohabiting,Pozzuoli,Upper Secondary School,Employee,No,2,No,1,Yes,None,5,5,5,5,5,5,5,No,No,No,Yes,Yes,Yes,3,3,2,2,3,2,1,1,3,1,No,No,Apartment,No,1,Car,5,Up to €15000
+19,Female,Unmarried,Quarto,Upper Secondary School,Self-Employed,No,4,No,1,No,None,4,5,5,4,4,5,5,No,Yes,Yes,Yes,Yes,Yes,4,1,5,2,1,3,3,3,4,2,Yes,Yes,Apartment,No,0,None,3,
+36,Male,Cohabiting,Pozzuoli,Postgraduate Degree,Employee,No,1,No,2,No,Left,5,4,4,1,4,4,5,Yes,Yes,Yes,Yes,Yes,Yes,2,2,3,2,3,4,4,5,5,2,Yes,Yes,Apartment,No,2,Car and Motorcycle,1,Between €28000 and €50000
+43,Female,Unmarried,Napoli,Degree,Employee,No,3,Yes,2,No,None,4,4,4,2,4,4,4,Yes,Yes,Yes,No,Yes,Yes,3,2,3,2,4,1,2,3,3,3,No,Yes,Apartment,Yes,1,Car,3,Between €15000 and €28000
+43,Female,Married,Napoli,Upper Secondary School,Unemployed,No,4,No,1,Yes,Left,4,5,5,4,3,5,5,Yes,No,No,Yes,Yes,Yes,2,3,3,3,3,2,2,2,3,1,No,No,Apartment,No,1,Car,2,Between €15000 and €28000
+38,Female,Cohabiting,,Upper Secondary School,Employee,No,3,No,0 (Ground Floor),No,Center,3,5,5,1,1,3,5,Yes,No,No,Yes,Yes,Yes,2,2,3,2,2,2,2,1,3,2,No,Yes,Apartment,No,2,Motorcycle/Scooter,3,Up to €15000
+51,Female,Married,Napoli,Degree,Employee,No,4,No,1,Yes,Left,5,3,3,2,3,5,5,Yes,Yes,Yes,Yes,Yes,Yes,3,3,3,3,3,1,1,1,3,2,Yes,Yes,Apartment,No,2,Car,3,
+61,Female,Married,Pozzuoli,Lower Secondary School,Unemployed,No,2,No,1,Yes,,4,4,4,3,2,5,5,Yes,Yes,Yes,No,Yes,No,2,3,3,3,3,1,1,1,3,3,Yes,Yes,Apartment,No,1,Car,3,
+48,Female,Married,Napoli,Upper Secondary School,Unemployed,No,4,No,2,Yes,,3,2,3,3,2,4,3,No,Yes,No,No,No,No,2,2,3,3,3,2,2,2,3,2,Yes,No,Apartment,No,1,Car,4,
+39,Female,Married,Pozzuoli,Degree,Employee,No,4,Yes,0 (Ground Floor),No,Center,5,4,5,4,3,5,4,Yes,Yes,Yes,No,Yes,Yes,3,2,4,3,3,3,3,2,5,2,Yes,Yes,Villa/Small Villa,No,3,Car and Motorcycle,2,Between €15000 and €28000
+55,Female,Divorced,Pozzuoli,Postgraduate Degree,Self-Employed,No,1,No,3,Yes,Left,4,4,4,2,4,4,3,Yes,Yes,Yes,Yes,Yes,Yes,5,2,1,1,3,1,1,1,2,2,Yes,Yes,Apartment,No,1,Car,2,Between €28000 and €50000
+34,Female,Cohabiting,Napoli,Postgraduate Degree,Unemployed,No,2,Yes,0 (Ground Floor),No,Left,5,4,3,3,5,3,5,Yes,Yes,Yes,Yes,Yes,Yes,2,2,5,3,5,1,1,1,3,1,No,No,Apartment,No,1,Car,5,Up to €15000
+43,Female,Married,Pozzuoli,Upper Secondary School,Self-Employed,No,3,No,2,No,Left,3,2,2,1,2,4,3,Yes,Yes,Yes,Yes,Yes,Yes,1,1,3,1,3,1,1,1,5,4,Yes,Yes,Apartment,No,2,Car,2,
+27,Male,Unmarried,Monte Di Procida,Upper Secondary School,Employee,No,5,,0 (Ground Floor),No,Right,3,2,2,3,1,4,4,Yes,Yes,No,Yes,No,Yes,2,2,2,2,3,2,2,3,4,2,Yes,Yes,Apartment,No,2,Car and Motorcycle,2,Between €15000 and €28000
+51,Female,Cohabiting,Pozzuoli,Upper Secondary School,Employee,Yes,2,No,1,Yes,Right,1,1,1,1,1,1,1,Yes,Yes,Yes,Yes,Yes,Yes,3,3,3,3,3,3,1,2,4,1,No,No,Other,No,1,Car,1,Between €15000 and €28000
+36,Female,Cohabiting,Napoli,Upper Secondary School,Self-Employed,No,3,No,2,No,None,5,5,5,4,1,5,5,Yes,No,Yes,Yes,Yes,Yes,3,3,4,1,5,5,5,3,5,2,No,No,Apartment,No,2,Car,2,Up to €15000
+54,Male,Unmarried,Pozzuoli,Upper Secondary School,Employee,No,2,No,0 (Ground Floor),Yes,,3,2,2,1,1,1,3,Yes,No,No,No,No,Yes,2,3,3,3,3,3,3,3,4,4,Yes,Yes,Apartment,No,0,None,1,
+40,Female,Married,,Degree,Employee,No,4,No,5,No,None,3,4,5,2,3,4,5,Yes,Yes,Yes,Yes,Yes,Yes,2,1,3,3,5,1,1,2,3,3,No,Yes,Apartment,Yes,1,Car,3,Between €15000 and €28000
+43,Male,Married,Napoli,Degree,Self-Employed,Yes,2,No,4,No,Right,4,4,5,1,5,3,4,Yes,No,No,No,Yes,No,1,1,3,2,5,1,1,3,5,1,Yes,No,Apartment,Yes,3,Car and Motorcycle,1,
+33,Female,Married,Pozzuoli,Degree,Unemployed,No,3,No,1,No,Left,3,3,4,2,3,5,5,Yes,Yes,Yes,No,Yes,Yes,2,2,3,1,3,2,2,1,3,2,No,Yes,Apartment,Yes,1,Car,3,
+42,Female,Unmarried,Napoli,Upper Secondary School,Employee,No,1,No,0 (Ground Floor),Yes,,3,4,4,4,3,4,5,Yes,Yes,Yes,Yes,Yes,Yes,1,1,4,2,3,1,1,1,2,2,Yes,No,Apartment,No,1,Car,3,Between €15000 and €28000
+,Female,Unmarried,Napoli,Upper Secondary School,Student,No,4,No,0 (Ground Floor),No,Right,3,5,5,4,3,3,5,No,Yes,Yes,Yes,Yes,No,2,2,4,5,3,2,3,3,3,1,No,Yes,Villa/Small Villa,No,3,Car,4,Up to €15000
+,Female,Unmarried,Casalnuovo,Upper Secondary School,Student,No,4,No,0 (Ground Floor),No,Left,1,4,4,2,3,1,5,Yes,Yes,Yes,Yes,Yes,Yes,4,3,5,3,3,2,2,2,3,2,No,Yes,Apartment,No,2,Car,1,
+,Female,Unmarried,Napoli,Upper Secondary School,Student Worker,No,4,No,3,No,,2,3,3,4,3,2,4,No,Yes,No,No,No,Yes,2,1,1,1,1,1,1,3,2,1,No,No,Other,No,1,Car,3,
+23,Male,Unmarried,Napoli,Upper Secondary School,Student,No,4,No,5,No,,4,5,5,5,2,2,2,No,No,No,No,No,No,4,5,5,5,5,5,5,5,5,5,No,Yes,Apartment,Yes,2,Car and Motorcycle,1,Up to €15000
+48,Female,Separated,Bacoli,Upper Secondary School,Student Worker,No,4,No,3,Yes,None,4,4,4,4,2,5,5,No,No,Yes,Yes,Yes,Yes,1,1,4,1,1,1,1,1,5,1,Yes,Yes,Apartment,No,0,None,5,
+,Female,Unmarried,Napoli,Lower Secondary School,Student,No,4,No,1,No,None,1,1,2,3,2,1,2,No,Yes,No,Yes,No,Yes,2,2,2,2,4,2,2,2,5,3,No,No,Apartment,No,0,None,2,
+55,Female,Unmarried,Pozzuoli,Degree,Self-Employed,No,2,Yes,4,Yes,Right,5,3,4,1,1,5,4,Yes,No,No,No,No,Yes,1,1,4,2,4,1,1,2,4,4,Yes,Yes,Apartment,Yes,2,Car,1,Between €15000 and €28000
+,Female,Unmarried,Napoli,Lower Secondary School,Student,No,4,No,1,No,None,1,3,3,2,3,2,5,Yes,Yes,Yes,Yes,No,No,4,4,4,4,4,3,3,3,3,2,No,Yes,Apartment,No,3,Car and Motorcycle,3,
+58,Female,Married,Pozzuoli,Upper Secondary School,Employee,No,5,Yes,4,Yes,,4,5,5,4,3,5,5,No,No,No,No,No,Yes,4,4,4,4,4,2,2,1,3,1,No,Yes,Apartment,Yes,2,Car and Motorcycle,2,Between €28000 and €50000
+63,Female,Married,Pozzuoli,Upper Secondary School,Employee,No,2,No,1,No,,4,4,4,1,4,3,4,Yes,No,No,Yes,Yes,Yes,1,1,1,1,3,3,3,3,3,3,Yes,Yes,Apartment,Yes,2,Car,3,
+61,Female,Divorced,Napoli,Postgraduate Degree,Employee,No,1,No,5,Yes,Left,4,4,3,3,4,2,3,Yes,Yes,No,Yes,No,Yes,2,2,2,3,4,3,3,2,4,3,Yes,Yes,Apartment,Yes,1,Car,3,
+33,Female,Unmarried,Maratea,Postgraduate Degree,Employee,Yes,1,No,1,No,Left,3,4,3,1,4,4,3,Yes,Yes,No,Yes,No,Yes,3,3,3,3,3,4,4,3,5,3,Yes,No,Apartment,No,1,Car,4,Up to €15000
+,Female,Unmarried,Napoli,Upper Secondary School,Student,No,3,No,1,No,None,2,3,3,2,1,2,3,No,Yes,No,No,No,No,2,2,3,2,2,2,2,2,2,3,No,Yes,Apartment,Yes,2,Car,3,Up to €15000
+,Male,Unmarried,Napoli,Lower Secondary School,Student,No,4,No,1,No,Left,1,1,1,1,1,1,2,Yes,Yes,No,Yes,No,No,4,4,4,4,4,3,2,2,4,3,No,Yes,Apartment,No,1,Car,3,Between €28000 and €50000
+46,Female,Cohabiting,San Valentino Torio,Lower Secondary School,Employee,No,3,No,2,Yes,None,3,3,4,2,3,3,4,Yes,No,No,No,No,No,2,3,3,2,2,2,2,2,3,2,No,Yes,Apartment,No,1,Car,2,Up to €15000
+,Female,Married,Volla,Upper Secondary School,Student,Yes,4,No,4,No,None,4,4,4,4,3,3,4,Yes,No,Yes,Yes,Yes,Yes,3,3,5,4,4,3,2,1,4,1,Yes,Yes,Apartment,Yes,0,Car,3,
+56,Female,Married,Napoli,Upper Secondary School,Employee,No,5,Yes,2,Yes,,5,5,4,4,3,5,5,Yes,No,Yes,No,Yes,Yes,4,4,4,4,3,1,2,1,4,2,No,Yes,Apartment,No,2,Car,3,
+31,Female,Cohabiting,Napoli,Upper Secondary School,Employee,No,2,No,1,No,Right,5,5,5,5,2,5,5,Yes,Yes,Yes,No,Yes,Yes,2,3,3,3,4,2,2,2,4,3,Yes,Yes,Villa/Small Villa,No,2,Car,3,Up to €15000
+,Female,Unmarried,Napoli,Lower Secondary School,Student,No,5,No,1,No,Left,1,4,4,2,2,2,5,No,Yes,No,No,No,No,2,2,4,2,3,3,3,3,3,3,Yes,Yes,Apartment,No,1,Car,3,Up to €15000
+,Female,Unmarried,Napoli,Lower Secondary School,Student,No,5,No,2,No,,1,3,4,4,3,2,4,No,Yes,Yes,Yes,Yes,Yes,3,3,3,3,3,3,3,3,4,2,No,No,Apartment,No,1,Car,3,
+,Female,Unmarried,Napoli,Lower Secondary School,Student,No,Over 5,No,2,No,Center,3,3,4,3,3,3,3,No,Yes,No,Yes,No,Yes,3,3,3,3,3,2,2,2,3,2,No,No,Apartment,Yes,0,None,2,
+,Female,Unmarried,Napoli,Upper Secondary School,Student,No,5,No,1,No,None,1,2,3,1,3,1,4,No,Yes,Yes,Yes,No,Yes,3,4,4,3,4,2,2,2,3,1,No,Yes,Apartment,No,2,Car,2,Between €15000 and €28000
+,Female,Unmarried,Volla,Lower Secondary School,Student,No,5,No,1,No,None,1,2,2,1,3,1,3,Yes,No,No,Yes,No,Yes,2,2,3,1,3,3,3,2,3,2,No,Yes,Apartment,Yes,2,Car,1,Between €15000 and €28000
+24,Female,Unmarried,Caserta,Degree,Student,Yes,3,No,3,No,,3,3,4,3,4,2,2,Yes,Yes,No,Yes,No,Yes,2,2,3,2,3,3,3,3,2,1,No,Yes,Apartment,Yes,3,Car and Motorcycle,3,
+23,Male,Unmarried,Napoli,Degree,Student,No,4,No,5,No,Left,3,4,3,3,3,2,2,Yes,Yes,No,No,No,Yes,3,2,3,3,3,3,3,3,4,2,No,Yes,Apartment,Yes,1,Car,3,Between €28000 and €50000
+24,Female,Unmarried,Calvi Risorta,Degree,Student,No,5,No,0 (Ground Floor),No,,2,1,1,1,1,1,1,Yes,Yes,No,Yes,No,No,2,2,1,1,1,2,3,3,4,1,No,Yes,Apartment,No,4,Car and Motorcycle,3,
+25,Male,Unmarried,Caserta,Degree,Student,No,Over 5,No,0 (Ground Floor),No,Center,3,3,3,1,2,2,4,Yes,Yes,No,Yes,No,No,5,5,5,5,5,2,2,2,3,3,No,Yes,Apartment,Yes,3,Car,3,
+,Female,Unmarried,Cercola,Lower Secondary School,Student,No,3,No,1,No,,2,4,4,3,3,2,4,No,No,No,No,No,Yes,3,3,3,3,3,3,3,3,3,2,No,Yes,Apartment,Yes,1,Car,3,
+45,Female,Unmarried,Pozzuoli,Degree,Employee,No,1,No,Over 5,No,,2,1,2,2,4,2,3,No,Yes,Yes,Yes,Yes,Yes,1,1,3,2,2,2,3,3,3,3,Yes,Yes,Apartment,Yes,1,Car,1,
+44,Female,Cohabiting,Pozzuoli,Postgraduate Degree,Self-Employed,No,4,No,3,No,Left,3,3,4,2,2,4,4,Yes,No,Yes,Yes,Yes,Yes,3,3,4,3,3,3,3,2,4,2,Yes,No,Apartment,No,2,Car,2,Between €28000 and €50000
+32,Female,Married,Gualtieri,Degree,Employee,Yes,4,No,0 (Ground Floor),No,,3,3,3,3,5,4,4,Yes,No,No,No,No,No,5,5,4,4,3,5,5,5,5,5,Yes,Yes,Villa/Small Villa,No,2,Car,2,
